@@ -1,0 +1,187 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "致力于打造一款极致体验的WanAndroid客户端，知识和美是可以并存的哦QAQn(≧▽≦)n ，更好的 Awesome-WanAndroid V1.2.5正式版发布，相比初始版本，项目的稳定性和界面的美化程度已提升了几个档次，如果您觉得还不错的话，就点个Star吧~(持续打磨中~，敬请关注)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "本项目采用的性能优化技术全部来自于Awesome-Android-Performance"
+    },
+    {
+      "description": "Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagger2 + GreenDao + Glide\n这是一款会让您觉得很nice的技术学习APP，所用技术基本涵盖了当前Android开发中常用的主流技术框架，阅读内容主要面向想在Android开发领域成为专家的朋友们。此外，我正在进行一个 全新的Android进阶计划, 致力于成为更好的Android开发，有兴趣的朋友可以参考下~",
+      "items": [],
+      "title": "Introduction"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Awesome-WanAndroid Architecture"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "借鉴于设计MVP架构的最佳实践"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Preview"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Apk download（Android 5.0 or above it）（更好的Awesome-WanAndroid V1.2.5 来了）"
+    },
+    {
+      "description": "请参见Awesome-Third-Library-Source-Analysis",
+      "items": [],
+      "title": "笔者对项目所使用主流框架的源码分析"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Version"
+    },
+    {
+      "description": "1、将请求url的scheme字段全局替换为https\n2、解决issue上存在的bug",
+      "items": [],
+      "title": ":zap:v1.2.5"
+    },
+    {
+      "description": "1.新增公众号栏目，支持公众号内搜索\n2.解决Bugly上的bug",
+      "items": [],
+      "title": "v1.2.4"
+    },
+    {
+      "description": "1.适配Android O版本\n2.解决Bugly上的bug",
+      "items": [],
+      "title": "v1.2.3"
+    },
+    {
+      "description": "1.增加了Presenter层单元测试和部分View层的自动化UI测试\n2.解决登陆状态过一段时间会失效的bug\n3.进行了适当的小规模重构\n4.解决Bugly的兼容性bug",
+      "items": [],
+      "title": "v1.2.2"
+    },
+    {
+      "description": "1.增加dagger.android\n2.使用config.gradle统一管理gradle依赖\n3.封装RxBinding订阅处理\n4.增加共享元素适配处理\n5.使用Compose增加统一返回结果处理\n6.增加Glide memory、bitmapPool、diskCache配置\n7.优化加载错误页显示逻辑\n8.优化注册界面\n9.优化沉浸式状态栏显示效果\n10.更新Gradle版本到3.0.1",
+      "items": [],
+      "title": "v1.2.1"
+    },
+    {
+      "description": "1.增加设置模块\n2.分离出常用网站界面\n3.增加item多标签\n4.美化详情界面菜单\n5.添加ActivityOption跳转动画\n6.解决90%以上的内存泄露",
+      "items": [],
+      "title": "v1.2.0"
+    },
+    {
+      "description": "1.增加RxBus订阅管理，解决RxBus内存泄露的问题\n2.解决Webview有时加载不出来的问题\n3.增加RxPermission，处理Android 6.0权限问题\n4.Base响应基类泛型化，减少大量实体代码\n5.增加知识分类导航详情页\n6.搜索页面增加删除搜索记录，UI界面更加美观\n7.项目整体UI美化",
+      "items": [],
+      "title": "v1.1.0"
+    },
+    {
+      "description": "1.合理化项目分包架构\n2.优化搜索模块\n3.增加自动登录\n4.增加TabLayout智能联动RecyclerView\n5.增加沉浸式状态栏\n6.优化详情文章菜单样式\n7.项目整体UI美化",
+      "items": [],
+      "title": "v1.0.1"
+    },
+    {
+      "description": "1.提交Awesome WanAndroid第一版",
+      "items": [],
+      "title": "V1.0.0"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Thanks"
+    },
+    {
+      "description": "鸿洋大大提供的 WanAndroid API",
+      "items": [],
+      "title": "API："
+    },
+    {
+      "description": "GeekNews 提供了Dagger2配合MVP的架构思路\nToutiao 提供的MD特效实现思路\ndiycode 提供的智能滑动悬浮按钮实现思路\nEyepetizer-in-Kotlin 提供的搜索界面切换特效实现思路\n此外，还参考了不少国内外牛人的项目，感谢开源！",
+      "items": [],
+      "title": "APP："
+    },
+    {
+      "description": "花瓣 提供了很美的UI界面设计，感谢花瓣",
+      "items": [],
+      "title": "UI design："
+    },
+    {
+      "description": "iconfont 阿里巴巴对外开放的很棒的icon资源",
+      "items": [],
+      "title": "icon："
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Excellent third-party open source library："
+    },
+    {
+      "description": "Rxjava\nRxAndroid\nRxBinding",
+      "items": [],
+      "title": "Rx"
+    },
+    {
+      "description": "Retrofit\nOkHttp\nGson",
+      "items": [],
+      "title": "Network"
+    },
+    {
+      "description": "Glide",
+      "items": [],
+      "title": "Image Loader"
+    },
+    {
+      "description": "Dagger2\nButterKnife",
+      "items": [],
+      "title": "DI"
+    },
+    {
+      "description": "GreenDao",
+      "items": [],
+      "title": "DB"
+    },
+    {
+      "description": "SmartRefreshLayout\nLottie-android",
+      "items": [],
+      "title": "UI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长~"
+    },
+    {
+      "description": "现如今，Android 行业人才已逐渐饱和化，但高级人才依旧很稀缺，我们经常遇到的情况是，100份简历里只有2、3个比较合适的候选人，大部分的人都是疲于业务，没有花时间来好好学习，或是完全不知道学什么来提高自己的技术。对于 Android 开发者来说，尽早建立起一个完整的 Android 知识框架，了解目前大厂高频出现的常考知识点，掌握面试技巧，是一件非常需要重视的事情。\n去年，为了进入一线大厂去做更有挑战的事情，拿到更高的薪资，我提前准备了半年的时间，沉淀了一份 「两年磨一剑」 的体系化精品面试题，而后的半年，我都在不断地进行面试，总共面试了二三十家公司，每一场面试完之后，我都将对应的面试题和详细的答案进行了系统化的总结，并更新到了我的面试项目里，现在，在每一个模块之下，我都已经精心整理出了 超高频和高频的常考 知识点。\n在我近一年的大厂实战面试复盘中逐渐对原本的内容进行了大幅度的优化，并且新增了很多新的内容。它可以说是一线互联网大厂的面试精华总结，同时后续还会包含如何写简历和面试技巧的内容，能够帮你省时省力地准备面试，大大降低找到一个好工作的难度。\n这份面试项目不同于我 Github 上的 Awesome-Android-Interview 面试项目：https://github.com/JsonChao/Awesome-Android-Interview，Awesome-Android-Interview 已经在 2 年前（2020年 10 月停止更新），内容稍显陈旧，里面也有不少点表述不严谨，总体含金量较低。而我今天要分享的这份面试题库，是我在这两年持续总结、细化、沉淀出来的体系化精品面试题，里面很多的核心题答案在面试的压力下，经过了反复的校正与升华，含金量极高。\n在分享之前，有一点要注意的是，一定不要将资料泄露出去！细想一下就明白了：\n1、如果暴露出去，拿到手的人比你更快掌握，更早进入大厂，拿到高薪，你进大厂的机会就会变小，毕竟现在好公司就那么多，一个萝卜一个坑。\n2、两年前我公开分享的简陋版 Awesome-Android-Interview 面试题库现在还在被各个培训机构当做引流资料，加大了现在 Android 内卷。。\n所以，这一点一定要切记。\n获取方法：扫描下方的二维码。",
+      "items": [],
+      "title": "知识星球（推荐）"
+    },
+    {
+      "description": "这是我过去七年一直研究的命题。首先，是为自己研究，因为我是从小城镇出来的，通过持续不断地逆袭立足深圳。越是出身普通的人，就越需要有耐心，去进行系统性地全面提升，这方面，我有非常丰富的实践经验和方法论。因此，我开启了 “JsonChao” 的成长社群，希望和你一起完成系统性地蜕变。",
+      "items": [],
+      "title": "出身普通的人，如何真正改变命运？"
+    },
+    {
+      "description": "我的公众号 开通啦，专注于构建一套未来Android开发必备的知识体系。每个工作日为您推送高质量文章，让你每天都能涨知识。如果您想第一时间获取最新文章和最新动态，欢迎扫描关注~",
+      "items": [],
+      "title": "公众号"
+    },
+    {
+      "description": "Copyright 2018 JsonChao\nLicensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at\nhttp://www.apache.org/licenses/LICENSE-2.0\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:53:12.700Z",
+    "original_repository": "JsonChao/Awesome-WanAndroid",
+    "original_repository_sha": "42c4b46aaa2b112b02a8e4e26721b5efe22eb0a4",
+    "enhanced_repository": "enhansome/enhansome-Awesome-WanAndroid",
+    "enhanced_repository_description": null,
+    "title": "Awesome WanAndroid with stars"
+  }
+}
