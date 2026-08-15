@@ -267,23 +267,23 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,211 | 🐛 10 | 🌐 Java | 📅 2026-08-11
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,207 | 🐛 10 | 🌐 Java | 📅 2026-08-11
 
-[RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,949 | 🐛 1 | 🌐 Java | 📅 2026-08-05
+[RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,948 | 🐛 1 | 🌐 Java | 📅 2026-08-05
 
 [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,928 | 🐛 172 | 🌐 Java | 📅 2026-08-11
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,928 | 🐛 172 | 🌐 Java | 📅 2026-08-14
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,044 | 🐛 134 | 🌐 Kotlin | 📅 2026-08-14
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,044 | 🐛 132 | 🌐 Kotlin | 📅 2026-08-14
 
-[Gson](https://github.com/google/gson) ⭐ 24,233 | 🐛 343 | 🌐 Java | 📅 2026-08-11
+[Gson](https://github.com/google/gson) ⭐ 24,233 | 🐛 343 | 🌐 Java | 📅 2026-08-14
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,024 | 🐛 660 | 🌐 Java | 📅 2026-08-14
+[Glide](https://github.com/bumptech/glide) ⭐ 35,025 | 🐛 660 | 🌐 Java | 📅 2026-08-14
 
 #### DI
 
@@ -297,9 +297,9 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### UI
 
-[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,128 | 🐛 341 | 🌐 Java | 📅 2024-12-04
+[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,127 | 🐛 341 | 🌐 Java | 📅 2024-12-04
 
-[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,697 | 🐛 69 | 🌐 Java | 📅 2026-02-15
+[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,698 | 🐛 69 | 🌐 Java | 📅 2026-02-15
 
 ### 还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长\~
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
