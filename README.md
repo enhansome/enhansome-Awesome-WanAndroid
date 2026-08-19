@@ -267,7 +267,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,202 | 🐛 10 | 🌐 Java | 📅 2026-08-17
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,202 | 🐛 11 | 🌐 Java | 📅 2026-08-17
 
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,934 | 🐛 1 | 🌐 Java | 📅 2026-08-05
 
@@ -275,7 +275,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,932 | 🐛 171 | 🌐 Java | 📅 2026-08-16
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,933 | 🐛 171 | 🌐 Java | 📅 2026-08-16
 
 [OkHttp](https://github.com/square/okhttp) ⭐ 47,051 | 🐛 139 | 🌐 Kotlin | 📅 2026-08-18
 
