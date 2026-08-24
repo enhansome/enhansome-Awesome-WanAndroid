@@ -1,7 +1,380 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 221232045,
+            "language": null,
+            "last_commit": "2026-04-20T12:27:20Z",
+            "owner": "JsonChao",
+            "repo": "Awesome-Android-Performance",
+            "stars": 828
+          },
+          "title": "本项目采用的性能优化技术全部来自于Awesome-Android-Performance"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "本项目还有一些不够完善的地方，如发现有Bug，欢迎issue",
+              "description": "、Email(chao.qu521@gmail.com)、PR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124503196,
+                "language": "Java",
+                "last_commit": "2026-04-20T12:26:34Z",
+                "owner": "JsonChao",
+                "repo": "Awesome-WanAndroid",
+                "stars": 2715
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tips："
+        }
+      ],
+      "title": "Awesome-WanAndroid Architecture"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "请参见Awesome-Third-Library-Source-Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162253117,
+            "language": null,
+            "last_commit": "2020-06-23T03:03:24Z",
+            "owner": "JsonChao",
+            "repo": "Awesome-Third-Library-Source-Analysis",
+            "stars": 882
+          }
+        }
+      ],
+      "title": "笔者对项目所使用主流框架的源码分析"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GeekNews",
+              "description": "提供了Dagger2配合MVP的架构思路",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65138856,
+                "language": "Java",
+                "last_commit": "2018-08-25T11:26:10Z",
+                "owner": "codeestX",
+                "repo": "GeekNews",
+                "stars": 3491
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Toutiao",
+              "description": "提供的MD特效实现思路",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76659450,
+                "language": "Java",
+                "last_commit": "2019-01-19T18:04:58Z",
+                "owner": "iMeiji",
+                "repo": "Toutiao",
+                "stars": 2239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "diycode",
+              "description": "提供的智能滑动悬浮按钮实现思路",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80809072,
+                "language": "Java",
+                "last_commit": "2018-03-26T05:17:44Z",
+                "owner": "GcsSloop",
+                "repo": "diycode",
+                "stars": 905
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Eyepetizer-in-Kotlin",
+              "description": "提供的搜索界面切换特效实现思路",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95836274,
+                "language": "Kotlin",
+                "last_commit": "2018-06-06T08:03:33Z",
+                "owner": "LRH1993",
+                "repo": "Eyepetizer-in-Kotlin",
+                "stars": 1643
+              }
+            }
+          ],
+          "description": "此外，还参考了不少国内外牛人的项目，感谢开源！",
+          "node_type": "group",
+          "title": "APP："
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Rxjava",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7508411,
+                    "language": "Java",
+                    "last_commit": "2026-08-24T05:34:22Z",
+                    "owner": "ReactiveX",
+                    "repo": "RxJava",
+                    "stars": 48204
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RxAndroid",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23095954,
+                    "language": "Java",
+                    "last_commit": "2026-08-05T12:08:09Z",
+                    "owner": "ReactiveX",
+                    "repo": "RxAndroid",
+                    "stars": 19933
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RxBinding",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 32775739,
+                    "language": "Kotlin",
+                    "last_commit": "2021-11-18T17:51:21Z",
+                    "owner": "JakeWharton",
+                    "repo": "RxBinding",
+                    "stars": 9569
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Rx"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Retrofit",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 892275,
+                    "language": "Java",
+                    "last_commit": "2026-08-23T02:00:28Z",
+                    "owner": "lysine-dev",
+                    "repo": "retrofit",
+                    "stars": 43933
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OkHttp",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5152285,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-23T02:23:05Z",
+                    "owner": "lysine-dev",
+                    "repo": "okhttp",
+                    "stars": 47049
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Gson",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 32538871,
+                    "language": "Java",
+                    "last_commit": "2026-08-14T19:50:04Z",
+                    "owner": "google",
+                    "repo": "gson",
+                    "stars": 24226
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Network"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Glide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11267509,
+                    "language": "Java",
+                    "last_commit": "2026-08-20T17:51:21Z",
+                    "owner": "bumptech",
+                    "repo": "glide",
+                    "stars": 35025
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Image Loader"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dagger2",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7968417,
+                    "language": "Java",
+                    "last_commit": "2026-08-23T20:05:20Z",
+                    "owner": "google",
+                    "repo": "dagger",
+                    "stars": 17702
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ButterKnife",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 8575137,
+                    "language": "Java",
+                    "last_commit": "2023-09-02T07:41:30Z",
+                    "owner": "JakeWharton",
+                    "repo": "butterknife",
+                    "stars": 25349
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "DI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GreenDao",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2626751,
+                    "language": "Java",
+                    "last_commit": "2024-04-30T05:30:59Z",
+                    "owner": "greenrobot",
+                    "repo": "greenDAO",
+                    "stars": 12588
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "DB"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SmartRefreshLayout",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 93152223,
+                    "language": "Java",
+                    "last_commit": "2024-12-04T12:28:17Z",
+                    "owner": "scwang90",
+                    "repo": "SmartRefreshLayout",
+                    "stars": 25125
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Lottie-android",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 70198875,
+                    "language": "Java",
+                    "last_commit": "2026-02-15T22:03:57Z",
+                    "owner": "airbnb",
+                    "repo": "lottie-android",
+                    "stars": 35709
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "UI"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Excellent third-party open source library："
+        }
+      ],
+      "title": "Thanks"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T08:23:42.665Z",
+    "last_updated": "2026-08-24T14:04:39.329Z",
     "original_repository": "JsonChao/Awesome-WanAndroid",
     "original_repository_id": 124503196,
     "original_repository_sha": "42c4b46aaa2b112b02a8e4e26721b5efe22eb0a4",
