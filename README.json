@@ -156,7 +156,7 @@
                     "last_commit": "2026-08-24T05:34:22Z",
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48204
+                    "stars": 48205
                   }
                 },
                 {
@@ -186,7 +186,7 @@
                     "last_commit": "2021-11-18T17:51:21Z",
                     "owner": "JakeWharton",
                     "repo": "RxBinding",
-                    "stars": 9569
+                    "stars": 9570
                   }
                 }
               ],
@@ -223,7 +223,7 @@
                     "last_commit": "2026-08-23T02:23:05Z",
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47049
+                    "stars": 47050
                   }
                 },
                 {
@@ -257,7 +257,7 @@
                     "archived": false,
                     "id": 11267509,
                     "language": "Java",
-                    "last_commit": "2026-08-20T17:51:21Z",
+                    "last_commit": "2026-08-25T00:43:16Z",
                     "owner": "bumptech",
                     "repo": "glide",
                     "stars": 35025
@@ -341,7 +341,7 @@
                     "last_commit": "2024-12-04T12:28:17Z",
                     "owner": "scwang90",
                     "repo": "SmartRefreshLayout",
-                    "stars": 25125
+                    "stars": 25126
                   }
                 },
                 {
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:04:39.329Z",
+    "last_updated": "2026-08-25T05:57:19.338Z",
     "original_repository": "JsonChao/Awesome-WanAndroid",
     "original_repository_id": 124503196,
     "original_repository_sha": "42c4b46aaa2b112b02a8e4e26721b5efe22eb0a4",
