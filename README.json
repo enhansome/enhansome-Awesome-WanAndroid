@@ -156,7 +156,7 @@
                     "last_commit": "2026-08-24T05:34:22Z",
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48205
+                    "stars": 48204
                   }
                 },
                 {
@@ -223,7 +223,7 @@
                     "last_commit": "2026-08-23T02:23:05Z",
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47050
+                    "stars": 47049
                   }
                 },
                 {
@@ -238,7 +238,7 @@
                     "last_commit": "2026-08-14T19:50:04Z",
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24226
+                    "stars": 24225
                   }
                 }
               ],
@@ -279,10 +279,10 @@
                     "archived": false,
                     "id": 7968417,
                     "language": "Java",
-                    "last_commit": "2026-08-23T20:05:20Z",
+                    "last_commit": "2026-08-25T07:35:14Z",
                     "owner": "google",
                     "repo": "dagger",
-                    "stars": 17702
+                    "stars": 17703
                   }
                 },
                 {
@@ -356,7 +356,7 @@
                     "last_commit": "2026-02-15T22:03:57Z",
                     "owner": "airbnb",
                     "repo": "lottie-android",
-                    "stars": 35709
+                    "stars": 35710
                   }
                 }
               ],
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:19.338Z",
+    "last_updated": "2026-08-25T08:21:33.820Z",
     "original_repository": "JsonChao/Awesome-WanAndroid",
     "original_repository_id": 124503196,
     "original_repository_sha": "42c4b46aaa2b112b02a8e4e26721b5efe22eb0a4",
