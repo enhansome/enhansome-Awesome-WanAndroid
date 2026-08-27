@@ -267,7 +267,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,206 | 🐛 11 | 🌐 Java | 📅 2026-08-27
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,207 | 🐛 11 | 🌐 Java | 📅 2026-08-27
 
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,932 | 🐛 1 | 🌐 Java | 📅 2026-08-27
 
@@ -275,15 +275,15 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,937 | 🐛 168 | 🌐 Java | 📅 2026-08-26
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,936 | 🐛 168 | 🌐 Java | 📅 2026-08-27
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,055 | 🐛 140 | 🌐 Kotlin | 📅 2026-08-27
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,055 | 🐛 141 | 🌐 Kotlin | 📅 2026-08-27
 
-[Gson](https://github.com/google/gson) ⭐ 24,226 | 🐛 340 | 🌐 Java | 📅 2026-08-27
+[Gson](https://github.com/google/gson) ⭐ 24,228 | 🐛 340 | 🌐 Java | 📅 2026-08-27
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,026 | 🐛 660 | 🌐 Java | 📅 2026-08-26
+[Glide](https://github.com/bumptech/glide) ⭐ 35,025 | 🐛 660 | 🌐 Java | 📅 2026-08-26
 
 #### DI
 
@@ -297,7 +297,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### UI
 
-[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,127 | 🐛 341 | 🌐 Java | 📅 2024-12-04
+[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,126 | 🐛 341 | 🌐 Java | 📅 2024-12-04
 
 [Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,712 | 🐛 71 | 🌐 Java | 📅 2026-02-15
 

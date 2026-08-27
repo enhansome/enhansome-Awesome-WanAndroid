@@ -156,7 +156,7 @@
                     "last_commit": "2026-08-27T05:03:09Z",
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48206
+                    "stars": 48207
                   }
                 },
                 {
@@ -205,10 +205,10 @@
                     "archived": false,
                     "id": 892275,
                     "language": "Java",
-                    "last_commit": "2026-08-26T13:56:16Z",
+                    "last_commit": "2026-08-27T17:27:56Z",
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43937
+                    "stars": 43936
                   }
                 },
                 {
@@ -238,7 +238,7 @@
                     "last_commit": "2026-08-27T01:13:23Z",
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24226
+                    "stars": 24228
                   }
                 }
               ],
@@ -260,7 +260,7 @@
                     "last_commit": "2026-08-26T15:39:15Z",
                     "owner": "bumptech",
                     "repo": "glide",
-                    "stars": 35026
+                    "stars": 35025
                   }
                 }
               ],
@@ -341,7 +341,7 @@
                     "last_commit": "2024-12-04T12:28:17Z",
                     "owner": "scwang90",
                     "repo": "SmartRefreshLayout",
-                    "stars": 25127
+                    "stars": 25126
                   }
                 },
                 {
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:18.366Z",
+    "last_updated": "2026-08-27T18:24:05.203Z",
     "original_repository_info": {
       "archived": false,
       "id": 124503196,
