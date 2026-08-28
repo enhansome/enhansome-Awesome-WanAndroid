@@ -14,9 +14,10 @@
             "last_commit": "2026-04-20T12:27:20Z",
             "owner": "JsonChao",
             "repo": "Awesome-Android-Performance",
-            "stars": 828
+            "stars": 829
           },
-          "title": "本项目采用的性能优化技术全部来自于Awesome-Android-Performance"
+          "title": "本项目采用的性能优化技术全部来自于Awesome-Android-Performance",
+          "first_seen": "2026-08-28T19:34:53.622Z"
         }
       ],
       "title": "Overview"
@@ -39,7 +40,8 @@
                 "owner": "JsonChao",
                 "repo": "Awesome-WanAndroid",
                 "stars": 2715
-              }
+              },
+              "first_seen": "2026-08-28T19:34:53.622Z"
             }
           ],
           "description": null,
@@ -65,7 +67,8 @@
             "owner": "JsonChao",
             "repo": "Awesome-Third-Library-Source-Analysis",
             "stars": 882
-          }
+          },
+          "first_seen": "2026-08-28T19:34:53.622Z"
         }
       ],
       "title": "笔者对项目所使用主流框架的源码分析"
@@ -88,7 +91,8 @@
                 "owner": "codeestX",
                 "repo": "GeekNews",
                 "stars": 3491
-              }
+              },
+              "first_seen": "2026-08-28T19:34:53.622Z"
             },
             {
               "node_type": "item",
@@ -103,7 +107,8 @@
                 "owner": "iMeiji",
                 "repo": "Toutiao",
                 "stars": 2239
-              }
+              },
+              "first_seen": "2026-08-28T19:34:53.622Z"
             },
             {
               "node_type": "item",
@@ -118,7 +123,8 @@
                 "owner": "GcsSloop",
                 "repo": "diycode",
                 "stars": 905
-              }
+              },
+              "first_seen": "2026-08-28T19:34:53.622Z"
             },
             {
               "node_type": "item",
@@ -133,7 +139,8 @@
                 "owner": "LRH1993",
                 "repo": "Eyepetizer-in-Kotlin",
                 "stars": 1643
-              }
+              },
+              "first_seen": "2026-08-28T19:34:53.622Z"
             }
           ],
           "description": "此外，还参考了不少国内外牛人的项目，感谢开源！",
@@ -156,8 +163,9 @@
                     "last_commit": "2026-08-27T05:03:09Z",
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48207
-                  }
+                    "stars": 48208
+                  },
+                  "first_seen": "2026-08-28T19:34:53.622Z"
                 },
                 {
                   "node_type": "item",
@@ -172,7 +180,8 @@
                     "owner": "ReactiveX",
                     "repo": "RxAndroid",
                     "stars": 19932
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:34:53.622Z"
                 },
                 {
                   "node_type": "item",
@@ -187,7 +196,8 @@
                     "owner": "JakeWharton",
                     "repo": "RxBinding",
                     "stars": 9569
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:34:53.622Z"
                 }
               ],
               "description": null,
@@ -208,8 +218,9 @@
                     "last_commit": "2026-08-27T17:27:56Z",
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43936
-                  }
+                    "stars": 43937
+                  },
+                  "first_seen": "2026-08-28T19:34:53.622Z"
                 },
                 {
                   "node_type": "item",
@@ -223,8 +234,9 @@
                     "last_commit": "2026-08-27T03:27:47Z",
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47055
-                  }
+                    "stars": 47056
+                  },
+                  "first_seen": "2026-08-28T19:34:53.622Z"
                 },
                 {
                   "node_type": "item",
@@ -238,8 +250,9 @@
                     "last_commit": "2026-08-27T01:13:23Z",
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24228
-                  }
+                    "stars": 24229
+                  },
+                  "first_seen": "2026-08-28T19:34:53.622Z"
                 }
               ],
               "description": null,
@@ -257,11 +270,12 @@
                     "archived": false,
                     "id": 11267509,
                     "language": "Java",
-                    "last_commit": "2026-08-26T15:39:15Z",
+                    "last_commit": "2026-08-27T23:13:35Z",
                     "owner": "bumptech",
                     "repo": "glide",
                     "stars": 35025
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:34:53.622Z"
                 }
               ],
               "description": null,
@@ -279,11 +293,12 @@
                     "archived": false,
                     "id": 7968417,
                     "language": "Java",
-                    "last_commit": "2026-08-25T07:35:14Z",
+                    "last_commit": "2026-08-28T17:55:25Z",
                     "owner": "google",
                     "repo": "dagger",
                     "stars": 17702
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:34:53.622Z"
                 },
                 {
                   "node_type": "item",
@@ -298,7 +313,8 @@
                     "owner": "JakeWharton",
                     "repo": "butterknife",
                     "stars": 25348
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:34:53.622Z"
                 }
               ],
               "description": null,
@@ -319,8 +335,9 @@
                     "last_commit": "2024-04-30T05:30:59Z",
                     "owner": "greenrobot",
                     "repo": "greenDAO",
-                    "stars": 12588
-                  }
+                    "stars": 12590
+                  },
+                  "first_seen": "2026-08-28T19:34:53.622Z"
                 }
               ],
               "description": null,
@@ -342,7 +359,8 @@
                     "owner": "scwang90",
                     "repo": "SmartRefreshLayout",
                     "stars": 25126
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:34:53.622Z"
                 },
                 {
                   "node_type": "item",
@@ -357,7 +375,8 @@
                     "owner": "airbnb",
                     "repo": "lottie-android",
                     "stars": 35712
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:34:53.622Z"
                 }
               ],
               "description": null,
@@ -374,7 +393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:24:05.203Z",
+    "last_updated": "2026-08-28T19:34:53.622Z",
     "original_repository_info": {
       "archived": false,
       "id": 124503196,

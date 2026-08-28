@@ -20,7 +20,7 @@
 
 ### 致力于打造一款极致体验的WanAndroid客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n ，更好的 Awesome-WanAndroid V1.2.5正式版发布，相比初始版本，项目的稳定性和界面的美化程度已提升了几个档次，如果您觉得还不错的话，就点个Star吧\~(持续打磨中\~，敬请关注)
 
-### 本项目采用的性能优化技术全部来自于[Awesome-Android-Performance](https://github.com/JsonChao/Awesome-Android-Performance) ⭐ 828 | 🐛 1 | 📅 2026-04-20
+### 本项目采用的性能优化技术全部来自于[Awesome-Android-Performance](https://github.com/JsonChao/Awesome-Android-Performance) ⭐ 829 | 🐛 1 | 📅 2026-04-20
 
 ## Introduction
 
@@ -267,7 +267,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,207 | 🐛 11 | 🌐 Java | 📅 2026-08-27
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,208 | 🐛 11 | 🌐 Java | 📅 2026-08-27
 
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,932 | 🐛 1 | 🌐 Java | 📅 2026-08-27
 
@@ -275,31 +275,31 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,936 | 🐛 168 | 🌐 Java | 📅 2026-08-27
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,937 | 🐛 168 | 🌐 Java | 📅 2026-08-27
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,055 | 🐛 141 | 🌐 Kotlin | 📅 2026-08-27
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,056 | 🐛 142 | 🌐 Kotlin | 📅 2026-08-27
 
-[Gson](https://github.com/google/gson) ⭐ 24,228 | 🐛 340 | 🌐 Java | 📅 2026-08-27
+[Gson](https://github.com/google/gson) ⭐ 24,229 | 🐛 340 | 🌐 Java | 📅 2026-08-27
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,025 | 🐛 660 | 🌐 Java | 📅 2026-08-26
+[Glide](https://github.com/bumptech/glide) ⭐ 35,025 | 🐛 661 | 🌐 Java | 📅 2026-08-27
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,702 | 🐛 366 | 🌐 Java | 📅 2026-08-25
+[Dagger2](https://github.com/google/dagger) ⭐ 17,702 | 🐛 366 | 🌐 Java | 📅 2026-08-28
 
 [ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,348 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
 #### DB
 
-[GreenDao](https://github.com/greenrobot/greenDAO) ⭐ 12,588 | 🐛 237 | 🌐 Java | 📅 2024-04-30
+[GreenDao](https://github.com/greenrobot/greenDAO) ⭐ 12,590 | 🐛 237 | 🌐 Java | 📅 2024-04-30
 
 #### UI
 
 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,126 | 🐛 341 | 🌐 Java | 📅 2024-12-04
 
-[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,712 | 🐛 71 | 🌐 Java | 📅 2026-02-15
+[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,712 | 🐛 72 | 🌐 Java | 📅 2026-02-15
 
 ### 还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长\~
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
