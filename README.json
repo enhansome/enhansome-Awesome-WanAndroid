@@ -297,7 +297,7 @@
                     "open_issues": 1,
                     "owner": "ReactiveX",
                     "repo": "RxAndroid",
-                    "stars": 19932,
+                    "stars": 19931,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -370,7 +370,7 @@
                     "open_issues": 143,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47056,
+                    "stars": 47055,
                     "topics": [
                       "android",
                       "graalvm",
@@ -396,7 +396,7 @@
                     "open_issues": 340,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24229,
+                    "stars": 24228,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -452,7 +452,7 @@
                     "open_issues": 366,
                     "owner": "google",
                     "repo": "dagger",
-                    "stars": 17703,
+                    "stars": 17702,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -559,7 +559,7 @@
                     "open_issues": 72,
                     "owner": "airbnb",
                     "repo": "lottie-android",
-                    "stars": 35713,
+                    "stars": 35714,
                     "topics": [
                       "after-effects",
                       "airbnb",
@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:21:13.876Z",
+    "last_updated": "2026-08-29T13:20:34.642Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
