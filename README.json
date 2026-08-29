@@ -9,12 +9,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": ":trophy:Explore Android performance optimization in depth（continuous updating ...）",
+            "homepage": null,
             "id": 221232045,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-04-20T12:27:20Z",
+            "open_issues": 1,
             "owner": "JsonChao",
             "repo": "Awesome-Android-Performance",
-            "stars": 829
+            "stars": 829,
+            "topics": [
+              "andorid",
+              "android-advanced",
+              "android-framework",
+              "android-performance",
+              "art",
+              "dalvik",
+              "linux-kernel",
+              "native"
+            ]
           },
           "title": "本项目采用的性能优化技术全部来自于Awesome-Android-Performance",
           "first_seen": "2026-08-28T19:34:53.622Z"
@@ -34,12 +48,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
+                "homepage": null,
                 "id": 124503196,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-20T12:26:34Z",
+                "open_issues": 38,
                 "owner": "JsonChao",
                 "repo": "Awesome-WanAndroid",
-                "stars": 2715
+                "stars": 2715,
+                "topics": [
+                  "android",
+                  "app",
+                  "bugly",
+                  "butterknife",
+                  "dagger2",
+                  "glide",
+                  "greendao",
+                  "java",
+                  "junit4",
+                  "leakcanary",
+                  "logger",
+                  "material-design",
+                  "mvp-architecture",
+                  "okhttp3",
+                  "retrofit2",
+                  "rxbus",
+                  "rxjava2",
+                  "wanandroid"
+                ]
               },
               "first_seen": "2026-08-28T19:34:53.622Z"
             }
@@ -61,12 +99,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: Deep understanding of popular open source library source code （optimizing...）",
+            "homepage": null,
             "id": 162253117,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2020-06-23T03:03:24Z",
+            "open_issues": 0,
             "owner": "JsonChao",
             "repo": "Awesome-Third-Library-Source-Analysis",
-            "stars": 882
+            "stars": 882,
+            "topics": [
+              "android",
+              "butterknife",
+              "dagger2",
+              "eventbus",
+              "glide",
+              "greendao",
+              "leakcanary",
+              "okhttp",
+              "retrofit",
+              "rxjava"
+            ]
           },
           "first_seen": "2026-08-28T19:34:53.622Z"
         }
@@ -85,12 +139,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books:A pure reading App based on Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide",
+                "homepage": null,
                 "id": 65138856,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-08-25T11:26:10Z",
+                "open_issues": 51,
                 "owner": "codeestX",
                 "repo": "GeekNews",
-                "stars": 3491
+                "stars": 3491,
+                "topics": [
+                  "android-application",
+                  "app",
+                  "butterknife",
+                  "dagger2",
+                  "glide",
+                  "jsoup",
+                  "material-design",
+                  "mvp-android",
+                  "mvp-architecture",
+                  "okhttp3",
+                  "reading-program",
+                  "realm",
+                  "retrofit",
+                  "rxbus",
+                  "rxjava",
+                  "v2ex",
+                  "zhihu"
+                ]
               },
               "first_seen": "2026-08-28T19:34:53.622Z"
             },
@@ -101,12 +178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一款第三方今日头条客户端, MVP + RxJava + Retrofit",
+                "homepage": null,
                 "id": 76659450,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-19T18:04:58Z",
+                "open_issues": 16,
                 "owner": "iMeiji",
                 "repo": "Toutiao",
-                "stars": 2239
+                "stars": 2239,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:34:53.622Z"
             },
@@ -117,12 +199,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[暂停维护]diycode android app",
+                "homepage": null,
                 "id": 80809072,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-03-26T05:17:44Z",
+                "open_issues": 12,
                 "owner": "GcsSloop",
                 "repo": "diycode",
-                "stars": 905
+                "stars": 905,
+                "topics": [
+                  "android",
+                  "android-app",
+                  "android-library",
+                  "android-studio",
+                  "app",
+                  "application",
+                  "diycode"
+                ]
               },
               "first_seen": "2026-08-28T19:34:53.622Z"
             },
@@ -133,12 +228,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "使用Kotlin撸一款Eyepetizer，学习Kotlin语言",
+                "homepage": null,
                 "id": 95836274,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2018-06-06T08:03:33Z",
+                "open_issues": 13,
                 "owner": "LRH1993",
                 "repo": "Eyepetizer-in-Kotlin",
-                "stars": 1643
+                "stars": 1643,
+                "topics": [
+                  "eyepetizer",
+                  "ijkplayer",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-28T19:34:53.622Z"
             }
@@ -158,12 +262,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+                    "homepage": "https://dsc.gg/rxjava",
                     "id": 7508411,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T05:03:09Z",
+                    "open_issues": 11,
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48208
+                    "stars": 48208,
+                    "topics": [
+                      "flow",
+                      "java",
+                      "reactive-streams",
+                      "rxjava"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
                 },
@@ -174,12 +288,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RxJava bindings for Android",
+                    "homepage": null,
                     "id": 23095954,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T11:15:28Z",
+                    "open_issues": 1,
                     "owner": "ReactiveX",
                     "repo": "RxAndroid",
-                    "stars": 19932
+                    "stars": 19932,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
                 },
@@ -190,12 +309,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "RxJava binding APIs for Android's UI widgets.",
+                    "homepage": null,
                     "id": 32775739,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-11-18T17:51:21Z",
+                    "open_issues": 42,
                     "owner": "JakeWharton",
                     "repo": "RxBinding",
-                    "stars": 9569
+                    "stars": 9569,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
                 }
@@ -213,12 +337,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A type-safe HTTP client for Android and the JVM",
+                    "homepage": "https://lysine.dev/retrofit/",
                     "id": 892275,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T17:27:56Z",
+                    "open_issues": 168,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43937
+                    "stars": 43937,
+                    "topics": [
+                      "android",
+                      "java"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
                 },
@@ -229,12 +361,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A meticulous HTTP client for the JVM, Android, and GraalVM.",
+                    "homepage": "https://lysine.dev/okhttp/",
                     "id": 5152285,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-27T03:27:47Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T21:12:08Z",
+                    "open_issues": 143,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47056
+                    "stars": 47056,
+                    "topics": [
+                      "android",
+                      "graalvm",
+                      "java",
+                      "kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
                 },
@@ -245,12 +387,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Java serialization/deserialization library to convert Java Objects into JSON and back",
+                    "homepage": null,
                     "id": 32538871,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T01:13:23Z",
+                    "open_issues": 340,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24229
+                    "stars": 24229,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
                 }
@@ -268,12 +415,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An image loading and caching library for Android focused on smooth scrolling",
+                    "homepage": "https://bumptech.github.io/glide/",
                     "id": 11267509,
                     "language": "Java",
-                    "last_commit": "2026-08-27T23:13:35Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T00:00:04Z",
+                    "open_issues": 658,
                     "owner": "bumptech",
                     "repo": "glide",
-                    "stars": 35025
+                    "stars": 35025,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
                 }
@@ -291,12 +443,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fast dependency injector for Android and Java.",
+                    "homepage": "https://dagger.dev",
                     "id": 7968417,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T17:55:25Z",
+                    "open_issues": 366,
                     "owner": "google",
                     "repo": "dagger",
-                    "stars": 17702
+                    "stars": 17703,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
                 },
@@ -307,12 +464,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bind Android views and callbacks to fields and methods.",
+                    "homepage": "http://jakewharton.github.io/butterknife/",
                     "id": 8575137,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-09-02T07:41:30Z",
+                    "open_issues": 118,
                     "owner": "JakeWharton",
                     "repo": "butterknife",
-                    "stars": 25348
+                    "stars": 25348,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
                 }
@@ -330,12 +492,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.",
+                    "homepage": "http://greenrobot.org/greendao/",
                     "id": 2626751,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2024-04-30T05:30:59Z",
+                    "open_issues": 237,
                     "owner": "greenrobot",
                     "repo": "greenDAO",
-                    "stars": 12590
+                    "stars": 12590,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
                 }
@@ -353,12 +520,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。",
+                    "homepage": "https://segmentfault.com/a/1190000010066071",
                     "id": 93152223,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-12-04T12:28:17Z",
+                    "open_issues": 341,
                     "owner": "scwang90",
                     "repo": "SmartRefreshLayout",
-                    "stars": 25126
+                    "stars": 25126,
+                    "topics": [
+                      "android",
+                      "android-ui",
+                      "footer",
+                      "header",
+                      "overscroll",
+                      "pull-to-refresh",
+                      "pulltorefresh",
+                      "refreshlayout"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
                 },
@@ -369,12 +550,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native",
+                    "homepage": "http://airbnb.io/lottie/",
                     "id": 70198875,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-02-15T22:03:57Z",
+                    "open_issues": 72,
                     "owner": "airbnb",
                     "repo": "lottie-android",
-                    "stars": 35712
+                    "stars": 35713,
+                    "topics": [
+                      "after-effects",
+                      "airbnb",
+                      "android",
+                      "animation",
+                      "lottie"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
                 }
@@ -393,15 +585,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:34:53.622Z",
+    "last_updated": "2026-08-29T04:21:13.876Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
+      "homepage": null,
       "id": 124503196,
       "language": "Java",
+      "license": "Apache-2.0",
       "last_commit": "2026-04-20T12:26:34Z",
+      "open_issues": 38,
       "owner": "JsonChao",
       "repo": "Awesome-WanAndroid",
-      "stars": 2715
+      "stars": 2715,
+      "topics": [
+        "android",
+        "app",
+        "bugly",
+        "butterknife",
+        "dagger2",
+        "glide",
+        "greendao",
+        "java",
+        "junit4",
+        "leakcanary",
+        "logger",
+        "material-design",
+        "mvp-architecture",
+        "okhttp3",
+        "retrofit2",
+        "rxbus",
+        "rxjava2",
+        "wanandroid"
+      ]
     },
     "original_repository_sha": "42c4b46aaa2b112b02a8e4e26721b5efe22eb0a4",
     "enhanced_repository": "enhansome/enhansome-Awesome-WanAndroid",
