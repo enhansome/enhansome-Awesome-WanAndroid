@@ -187,7 +187,7 @@
                 "open_issues": 16,
                 "owner": "iMeiji",
                 "repo": "Toutiao",
-                "stars": 2239,
+                "stars": 2240,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:53.622Z"
@@ -297,7 +297,7 @@
                     "open_issues": 1,
                     "owner": "ReactiveX",
                     "repo": "RxAndroid",
-                    "stars": 19931,
+                    "stars": 19930,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -346,7 +346,7 @@
                     "open_issues": 168,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43937,
+                    "stars": 43936,
                     "topics": [
                       "android",
                       "java"
@@ -366,8 +366,8 @@
                     "id": 5152285,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-28T21:12:08Z",
-                    "open_issues": 143,
+                    "last_commit": "2026-08-29T15:24:36Z",
+                    "open_issues": 142,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
                     "stars": 47055,
@@ -396,7 +396,7 @@
                     "open_issues": 340,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24228,
+                    "stars": 24227,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -559,7 +559,7 @@
                     "open_issues": 72,
                     "owner": "airbnb",
                     "repo": "lottie-android",
-                    "stars": 35714,
+                    "stars": 35715,
                     "topics": [
                       "after-effects",
                       "airbnb",
@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:20:34.642Z",
+    "last_updated": "2026-08-30T13:15:41.371Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
