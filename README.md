@@ -267,7 +267,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,208 | 🐛 11 | 🌐 Java | 📅 2026-08-27
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,209 | 🐛 11 | 🌐 Java | 📅 2026-08-31
 
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,930 | 🐛 1 | 🌐 Java | 📅 2026-08-27
 
@@ -275,19 +275,19 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,936 | 🐛 168 | 🌐 Java | 📅 2026-08-27
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,938 | 🐛 168 | 🌐 Java | 📅 2026-08-27
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,055 | 🐛 142 | 🌐 Kotlin | 📅 2026-08-29
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,058 | 🐛 142 | 🌐 Kotlin | 📅 2026-08-29
 
-[Gson](https://github.com/google/gson) ⭐ 24,227 | 🐛 340 | 🌐 Java | 📅 2026-08-27
+[Gson](https://github.com/google/gson) ⭐ 24,228 | 🐛 341 | 🌐 Java | 📅 2026-08-27
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,025 | 🐛 658 | 🌐 Java | 📅 2026-08-29
+[Glide](https://github.com/bumptech/glide) ⭐ 35,024 | 🐛 658 | 🌐 Java | 📅 2026-08-29
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,702 | 🐛 366 | 🌐 Java | 📅 2026-08-28
+[Dagger2](https://github.com/google/dagger) ⭐ 17,701 | 🐛 366 | 🌐 Java | 📅 2026-08-28
 
 [ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,348 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
@@ -297,7 +297,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### UI
 
-[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,126 | 🐛 341 | 🌐 Java | 📅 2024-12-04
+[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,125 | 🐛 341 | 🌐 Java | 📅 2024-12-04
 
 [Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,715 | 🐛 72 | 🌐 Java | 📅 2026-02-15
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
