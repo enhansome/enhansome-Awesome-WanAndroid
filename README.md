@@ -267,39 +267,39 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,210 | 🐛 11 | 🌐 Java | 📅 2026-08-31
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,208 | 🐛 11 | 🌐 Java | 📅 2026-08-31
 
-[RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,930 | 🐛 1 | 🌐 Java | 📅 2026-08-27
+[RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,928 | 🐛 1 | 🌐 Java | 📅 2026-08-27
 
 [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,937 | 🐛 168 | 🌐 Java | 📅 2026-08-27
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,936 | 🐛 168 | 🌐 Java | 📅 2026-09-01
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,060 | 🐛 142 | 🌐 Kotlin | 📅 2026-08-31
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,059 | 🐛 143 | 🌐 Kotlin | 📅 2026-09-02
 
-[Gson](https://github.com/google/gson) ⭐ 24,227 | 🐛 343 | 🌐 Java | 📅 2026-09-01
+[Gson](https://github.com/google/gson) ⭐ 24,229 | 🐛 343 | 🌐 Java | 📅 2026-09-01
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,022 | 🐛 661 | 🌐 Java | 📅 2026-09-01
+[Glide](https://github.com/bumptech/glide) ⭐ 35,021 | 🐛 665 | 🌐 Java | 📅 2026-09-02
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,701 | 🐛 366 | 🌐 Java | 📅 2026-08-28
+[Dagger2](https://github.com/google/dagger) ⭐ 17,700 | 🐛 366 | 🌐 Java | 📅 2026-08-28
 
-[ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,348 | 🐛 118 | 🌐 Java | 📅 2023-09-02
+[ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,346 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
 #### DB
 
-[GreenDao](https://github.com/greenrobot/greenDAO) ⭐ 12,590 | 🐛 237 | 🌐 Java | 📅 2024-04-30
+[GreenDao](https://github.com/greenrobot/greenDAO) ⭐ 12,589 | 🐛 237 | 🌐 Java | 📅 2024-04-30
 
 #### UI
 
 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,125 | 🐛 341 | 🌐 Java | 📅 2024-12-04
 
-[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,716 | 🐛 72 | 🌐 Java | 📅 2026-02-15
+[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,714 | 🐛 72 | 🌐 Java | 📅 2026-02-15
 
 ### 还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长\~
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
