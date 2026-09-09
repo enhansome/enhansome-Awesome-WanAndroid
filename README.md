@@ -267,7 +267,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,200 | 🐛 11 | 🌐 Java | 📅 2026-09-05
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,200 | 🐛 11 | 🌐 Java | 📅 2026-09-08
 
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,925 | 🐛 1 | 🌐 Java | 📅 2026-08-27
 
@@ -275,19 +275,19 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,936 | 🐛 172 | 🌐 Java | 📅 2026-09-08
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,935 | 🐛 173 | 🌐 Java | 📅 2026-09-08
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,063 | 🐛 149 | 🌐 Kotlin | 📅 2026-09-08
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,067 | 🐛 149 | 🌐 Kotlin | 📅 2026-09-08
 
 [Gson](https://github.com/google/gson) ⭐ 24,234 | 🐛 348 | 🌐 Java | 📅 2026-09-01
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,023 | 🐛 664 | 🌐 Java | 📅 2026-09-07
+[Glide](https://github.com/bumptech/glide) ⭐ 35,026 | 🐛 665 | 🌐 Java | 📅 2026-09-08
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,700 | 🐛 369 | 🌐 Java | 📅 2026-09-04
+[Dagger2](https://github.com/google/dagger) ⭐ 17,700 | 🐛 367 | 🌐 Java | 📅 2026-09-08
 
 [ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,340 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
@@ -299,7 +299,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,121 | 🐛 341 | 🌐 Java | 📅 2024-12-04
 
-[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,720 | 🐛 72 | 🌐 Java | 📅 2026-02-15
+[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,723 | 🐛 72 | 🌐 Java | 📅 2026-02-15
 
 ### 还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长\~
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
