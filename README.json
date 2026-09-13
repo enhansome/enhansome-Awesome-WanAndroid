@@ -208,7 +208,7 @@
                 "open_issues": 12,
                 "owner": "GcsSloop",
                 "repo": "diycode",
-                "stars": 905,
+                "stars": 904,
                 "topics": [
                   "android",
                   "android-app",
@@ -346,7 +346,7 @@
                     "open_issues": 173,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43936,
+                    "stars": 43938,
                     "topics": [
                       "android",
                       "java"
@@ -392,11 +392,11 @@
                     "id": 32538871,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T20:03:42Z",
-                    "open_issues": 346,
+                    "last_commit": "2026-09-13T02:25:41Z",
+                    "open_issues": 337,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24237,
+                    "stars": 24235,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -449,7 +449,7 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-12T06:32:27Z",
-                    "open_issues": 370,
+                    "open_issues": 371,
                     "owner": "google",
                     "repo": "dagger",
                     "stars": 17702,
@@ -473,7 +473,7 @@
                     "open_issues": 118,
                     "owner": "JakeWharton",
                     "repo": "butterknife",
-                    "stars": 25340,
+                    "stars": 25339,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -501,7 +501,7 @@
                     "open_issues": 237,
                     "owner": "greenrobot",
                     "repo": "greenDAO",
-                    "stars": 12588,
+                    "stars": 12587,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -529,7 +529,7 @@
                     "open_issues": 341,
                     "owner": "scwang90",
                     "repo": "SmartRefreshLayout",
-                    "stars": 25118,
+                    "stars": 25117,
                     "topics": [
                       "android",
                       "android-ui",
@@ -559,7 +559,7 @@
                     "open_issues": 72,
                     "owner": "airbnb",
                     "repo": "lottie-android",
-                    "stars": 35722,
+                    "stars": 35724,
                     "topics": [
                       "after-effects",
                       "airbnb",
@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:42:42.247Z",
+    "last_updated": "2026-09-13T12:50:03.552Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
