@@ -267,11 +267,11 @@
                     "id": 7508411,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-08T14:01:25Z",
+                    "last_commit": "2026-09-14T05:02:34Z",
                     "open_issues": 11,
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48205,
+                    "stars": 48202,
                     "topics": [
                       "flow",
                       "java",
@@ -318,7 +318,7 @@
                     "open_issues": 42,
                     "owner": "JakeWharton",
                     "repo": "RxBinding",
-                    "stars": 9569,
+                    "stars": 9568,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -346,7 +346,7 @@
                     "open_issues": 173,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43938,
+                    "stars": 43935,
                     "topics": [
                       "android",
                       "java"
@@ -366,11 +366,11 @@
                     "id": 5152285,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-12T05:04:14Z",
-                    "open_issues": 149,
+                    "last_commit": "2026-09-14T10:57:38Z",
+                    "open_issues": 151,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47064,
+                    "stars": 47061,
                     "topics": [
                       "android",
                       "graalvm",
@@ -393,10 +393,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-13T02:25:41Z",
-                    "open_issues": 337,
+                    "open_issues": 323,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24235,
+                    "stars": 24236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -424,7 +424,7 @@
                     "open_issues": 667,
                     "owner": "bumptech",
                     "repo": "glide",
-                    "stars": 35026,
+                    "stars": 35024,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -452,7 +452,7 @@
                     "open_issues": 371,
                     "owner": "google",
                     "repo": "dagger",
-                    "stars": 17702,
+                    "stars": 17703,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -473,7 +473,7 @@
                     "open_issues": 118,
                     "owner": "JakeWharton",
                     "repo": "butterknife",
-                    "stars": 25339,
+                    "stars": 25338,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -559,7 +559,7 @@
                     "open_issues": 72,
                     "owner": "airbnb",
                     "repo": "lottie-android",
-                    "stars": 35724,
+                    "stars": 35725,
                     "topics": [
                       "after-effects",
                       "airbnb",
@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T12:50:03.552Z",
+    "last_updated": "2026-09-14T14:23:38.050Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
