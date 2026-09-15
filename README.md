@@ -27,7 +27,7 @@
 Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagger2 + GreenDao + Glide
 
 这是一款会让您觉得很nice的技术学习APP，所用技术基本涵盖了当前Android开发中常用的主流技术框架，阅读内容主要面向想在Android开发领域成为专家的朋友们。此外，我正在进行一个
-[全新的Android进阶计划](https://github.com/JsonChao/Awesome-Android-Exercise) ⭐ 3,407 | 🐛 4 | 📅 2026-04-20, 致力于成为更好的Android开发，有兴趣的朋友可以参考下\~
+[全新的Android进阶计划](https://github.com/JsonChao/Awesome-Android-Exercise) ⭐ 3,406 | 🐛 4 | 📅 2026-04-20, 致力于成为更好的Android开发，有兴趣的朋友可以参考下\~
 
 ## Awesome-WanAndroid Architecture
 
@@ -267,27 +267,27 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,202 | 🐛 11 | 🌐 Java | 📅 2026-09-14
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,201 | 🐛 11 | 🌐 Java | 📅 2026-09-14
 
-[RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,924 | 🐛 1 | 🌐 Java | 📅 2026-08-27
+[RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,923 | 🐛 1 | 🌐 Java | 📅 2026-08-27
 
 [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,935 | 🐛 173 | 🌐 Java | 📅 2026-09-09
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,936 | 🐛 173 | 🌐 Java | 📅 2026-09-09
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,061 | 🐛 151 | 🌐 Kotlin | 📅 2026-09-14
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,060 | 🐛 151 | 🌐 Kotlin | 📅 2026-09-15
 
-[Gson](https://github.com/google/gson) ⭐ 24,236 | 🐛 323 | 🌐 Java | 📅 2026-09-13
+[Gson](https://github.com/google/gson) ⭐ 24,236 | 🐛 325 | 🌐 Java | 📅 2026-09-14
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,024 | 🐛 667 | 🌐 Java | 📅 2026-09-10
+[Glide](https://github.com/bumptech/glide) ⭐ 35,023 | 🐛 667 | 🌐 Java | 📅 2026-09-14
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,703 | 🐛 371 | 🌐 Java | 📅 2026-09-12
+[Dagger2](https://github.com/google/dagger) ⭐ 17,702 | 🐛 371 | 🌐 Java | 📅 2026-09-12
 
 [ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,338 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
@@ -297,9 +297,9 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### UI
 
-[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,117 | 🐛 341 | 🌐 Java | 📅 2024-12-04
+[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,114 | 🐛 341 | 🌐 Java | 📅 2024-12-04
 
-[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,725 | 🐛 72 | 🌐 Java | 📅 2026-02-15
+[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,724 | 🐛 72 | 🌐 Java | 📅 2026-02-15
 
 ### 还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长\~
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
