@@ -271,7 +271,7 @@
                     "open_issues": 11,
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48201,
+                    "stars": 48202,
                     "topics": [
                       "flow",
                       "java",
@@ -297,7 +297,7 @@
                     "open_issues": 1,
                     "owner": "ReactiveX",
                     "repo": "RxAndroid",
-                    "stars": 19923,
+                    "stars": 19924,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -346,7 +346,7 @@
                     "open_issues": 173,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43936,
+                    "stars": 43940,
                     "topics": [
                       "android",
                       "java"
@@ -366,7 +366,7 @@
                     "id": 5152285,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T10:50:07Z",
+                    "last_commit": "2026-09-16T02:32:25Z",
                     "open_issues": 151,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
@@ -392,11 +392,11 @@
                     "id": 32538871,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-14T20:32:20Z",
-                    "open_issues": 325,
+                    "last_commit": "2026-09-16T00:23:16Z",
+                    "open_issues": 323,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24236,
+                    "stars": 24235,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -424,7 +424,7 @@
                     "open_issues": 667,
                     "owner": "bumptech",
                     "repo": "glide",
-                    "stars": 35023,
+                    "stars": 35025,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -473,7 +473,7 @@
                     "open_issues": 118,
                     "owner": "JakeWharton",
                     "repo": "butterknife",
-                    "stars": 25338,
+                    "stars": 25339,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -501,7 +501,7 @@
                     "open_issues": 237,
                     "owner": "greenrobot",
                     "repo": "greenDAO",
-                    "stars": 12587,
+                    "stars": 12588,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -529,7 +529,7 @@
                     "open_issues": 341,
                     "owner": "scwang90",
                     "repo": "SmartRefreshLayout",
-                    "stars": 25114,
+                    "stars": 25116,
                     "topics": [
                       "android",
                       "android-ui",
@@ -556,10 +556,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-02-15T22:03:57Z",
-                    "open_issues": 72,
+                    "open_issues": 74,
                     "owner": "airbnb",
                     "repo": "lottie-android",
-                    "stars": 35724,
+                    "stars": 35722,
                     "topics": [
                       "after-effects",
                       "airbnb",
@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:52:22.137Z",
+    "last_updated": "2026-09-16T12:48:30.527Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
