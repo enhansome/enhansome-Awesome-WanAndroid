@@ -267,7 +267,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,202 | 🐛 11 | 🌐 Java | 📅 2026-09-14
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,200 | 🐛 11 | 🌐 Java | 📅 2026-09-17
 
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,924 | 🐛 1 | 🌐 Java | 📅 2026-08-27
 
@@ -277,17 +277,17 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 [Retrofit](https://github.com/square/retrofit) ⭐ 43,940 | 🐛 173 | 🌐 Java | 📅 2026-09-09
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,060 | 🐛 151 | 🌐 Kotlin | 📅 2026-09-16
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,059 | 🐛 152 | 🌐 Kotlin | 📅 2026-09-17
 
 [Gson](https://github.com/google/gson) ⭐ 24,235 | 🐛 323 | 🌐 Java | 📅 2026-09-16
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,025 | 🐛 667 | 🌐 Java | 📅 2026-09-14
+[Glide](https://github.com/bumptech/glide) ⭐ 35,024 | 🐛 667 | 🌐 Java | 📅 2026-09-14
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,702 | 🐛 371 | 🌐 Java | 📅 2026-09-12
+[Dagger2](https://github.com/google/dagger) ⭐ 17,703 | 🐛 372 | 🌐 Java | 📅 2026-09-17
 
 [ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,339 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

@@ -267,11 +267,11 @@
                     "id": 7508411,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-14T05:02:34Z",
+                    "last_commit": "2026-09-17T06:49:14Z",
                     "open_issues": 11,
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48202,
+                    "stars": 48200,
                     "topics": [
                       "flow",
                       "java",
@@ -366,11 +366,11 @@
                     "id": 5152285,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-16T02:32:25Z",
-                    "open_issues": 151,
+                    "last_commit": "2026-09-17T03:38:25Z",
+                    "open_issues": 152,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47060,
+                    "stars": 47059,
                     "topics": [
                       "android",
                       "graalvm",
@@ -392,7 +392,7 @@
                     "id": 32538871,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-16T00:23:16Z",
+                    "last_commit": "2026-09-16T20:06:30Z",
                     "open_issues": 323,
                     "owner": "google",
                     "repo": "gson",
@@ -424,7 +424,7 @@
                     "open_issues": 667,
                     "owner": "bumptech",
                     "repo": "glide",
-                    "stars": 35025,
+                    "stars": 35024,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -448,11 +448,11 @@
                     "id": 7968417,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-12T06:32:27Z",
-                    "open_issues": 371,
+                    "last_commit": "2026-09-17T11:00:47Z",
+                    "open_issues": 372,
                     "owner": "google",
                     "repo": "dagger",
-                    "stars": 17702,
+                    "stars": 17703,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:48:30.527Z",
+    "last_updated": "2026-09-17T12:45:54.030Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
