@@ -241,7 +241,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 ### APP：
 
-[GeekNews](https://github.com/codeestX/GeekNews) ⭐ 3,489 | 🐛 51 | 🌐 Java | 📅 2018-08-25
+[GeekNews](https://github.com/codeestX/GeekNews) ⭐ 3,487 | 🐛 51 | 🌐 Java | 📅 2018-08-25
 提供了Dagger2配合MVP的架构思路
 
 [Toutiao](https://github.com/iMeiji/Toutiao) ⭐ 2,241 | 🐛 16 | 🌐 Java | 📅 2019-01-19
@@ -267,33 +267,33 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,197 | 🐛 11 | 🌐 Java | 📅 2026-09-17
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,194 | 🐛 11 | 🌐 Java | 📅 2026-09-17
 
-[RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,923 | 🐛 1 | 🌐 Java | 📅 2026-08-27
+[RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,922 | 🐛 1 | 🌐 Java | 📅 2026-08-27
 
 [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,941 | 🐛 173 | 🌐 Java | 📅 2026-09-09
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,940 | 🐛 173 | 🌐 Java | 📅 2026-09-09
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,061 | 🐛 153 | 🌐 Kotlin | 📅 2026-09-17
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,060 | 🐛 153 | 🌐 Kotlin | 📅 2026-09-17
 
 [Gson](https://github.com/google/gson) ⭐ 24,234 | 🐛 323 | 🌐 Java | 📅 2026-09-16
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,024 | 🐛 665 | 🌐 Java | 📅 2026-09-17
+[Glide](https://github.com/bumptech/glide) ⭐ 35,026 | 🐛 666 | 🌐 Java | 📅 2026-09-18
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,701 | 🐛 369 | 🌐 Java | 📅 2026-09-18
+[Dagger2](https://github.com/google/dagger) ⭐ 17,700 | 🐛 369 | 🌐 Java | 📅 2026-09-18
 
 [ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,339 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
 #### DB
 
-[GreenDao](https://github.com/greenrobot/greenDAO) ⭐ 12,589 | 🐛 237 | 🌐 Java | 📅 2024-04-30
+[GreenDao](https://github.com/greenrobot/greenDAO) ⭐ 12,588 | 🐛 237 | 🌐 Java | 📅 2024-04-30
 
 #### UI
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
