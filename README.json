@@ -346,7 +346,7 @@
                     "open_issues": 173,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43940,
+                    "stars": 43942,
                     "topics": [
                       "android",
                       "java"
@@ -370,7 +370,7 @@
                     "open_issues": 153,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47060,
+                    "stars": 47063,
                     "topics": [
                       "android",
                       "graalvm",
@@ -452,7 +452,7 @@
                     "open_issues": 369,
                     "owner": "google",
                     "repo": "dagger",
-                    "stars": 17700,
+                    "stars": 17701,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -501,7 +501,7 @@
                     "open_issues": 237,
                     "owner": "greenrobot",
                     "repo": "greenDAO",
-                    "stars": 12588,
+                    "stars": 12590,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -529,7 +529,7 @@
                     "open_issues": 341,
                     "owner": "scwang90",
                     "repo": "SmartRefreshLayout",
-                    "stars": 25117,
+                    "stars": 25116,
                     "topics": [
                       "android",
                       "android-ui",
@@ -559,7 +559,7 @@
                     "open_issues": 74,
                     "owner": "airbnb",
                     "repo": "lottie-android",
-                    "stars": 35725,
+                    "stars": 35724,
                     "topics": [
                       "after-effects",
                       "airbnb",
@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:02:44.898Z",
+    "last_updated": "2026-09-20T12:36:15.942Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
