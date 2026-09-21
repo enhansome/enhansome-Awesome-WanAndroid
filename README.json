@@ -267,11 +267,11 @@
                     "id": 7508411,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-17T06:49:14Z",
+                    "last_commit": "2026-09-21T05:09:01Z",
                     "open_issues": 11,
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48194,
+                    "stars": 48192,
                     "topics": [
                       "flow",
                       "java",
@@ -297,7 +297,7 @@
                     "open_issues": 1,
                     "owner": "ReactiveX",
                     "repo": "RxAndroid",
-                    "stars": 19922,
+                    "stars": 19920,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -346,7 +346,7 @@
                     "open_issues": 173,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43942,
+                    "stars": 43940,
                     "topics": [
                       "android",
                       "java"
@@ -367,7 +367,7 @@
                     "language": "Kotlin",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-17T23:01:46Z",
-                    "open_issues": 153,
+                    "open_issues": 155,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
                     "stars": 47063,
@@ -396,7 +396,7 @@
                     "open_issues": 323,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24234,
+                    "stars": 24236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -424,7 +424,7 @@
                     "open_issues": 666,
                     "owner": "bumptech",
                     "repo": "glide",
-                    "stars": 35026,
+                    "stars": 35025,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -452,7 +452,7 @@
                     "open_issues": 369,
                     "owner": "google",
                     "repo": "dagger",
-                    "stars": 17701,
+                    "stars": 17700,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -473,7 +473,7 @@
                     "open_issues": 118,
                     "owner": "JakeWharton",
                     "repo": "butterknife",
-                    "stars": 25339,
+                    "stars": 25337,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -501,7 +501,7 @@
                     "open_issues": 237,
                     "owner": "greenrobot",
                     "repo": "greenDAO",
-                    "stars": 12590,
+                    "stars": 12589,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -529,7 +529,7 @@
                     "open_issues": 341,
                     "owner": "scwang90",
                     "repo": "SmartRefreshLayout",
-                    "stars": 25116,
+                    "stars": 25115,
                     "topics": [
                       "android",
                       "android-ui",
@@ -559,7 +559,7 @@
                     "open_issues": 74,
                     "owner": "airbnb",
                     "repo": "lottie-android",
-                    "stars": 35724,
+                    "stars": 35723,
                     "topics": [
                       "after-effects",
                       "airbnb",
@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T12:36:15.942Z",
+    "last_updated": "2026-09-21T14:31:10.778Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
