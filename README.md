@@ -27,7 +27,7 @@
 Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagger2 + GreenDao + Glide
 
 这是一款会让您觉得很nice的技术学习APP，所用技术基本涵盖了当前Android开发中常用的主流技术框架，阅读内容主要面向想在Android开发领域成为专家的朋友们。此外，我正在进行一个
-[全新的Android进阶计划](https://github.com/JsonChao/Awesome-Android-Exercise) ⭐ 3,405 | 🐛 4 | 📅 2026-04-20, 致力于成为更好的Android开发，有兴趣的朋友可以参考下\~
+[全新的Android进阶计划](https://github.com/JsonChao/Awesome-Android-Exercise) ⭐ 3,404 | 🐛 4 | 📅 2026-04-20, 致力于成为更好的Android开发，有兴趣的朋友可以参考下\~
 
 ## Awesome-WanAndroid Architecture
 
@@ -241,10 +241,10 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 ### APP：
 
-[GeekNews](https://github.com/codeestX/GeekNews) ⭐ 3,487 | 🐛 51 | 🌐 Java | 📅 2018-08-25
+[GeekNews](https://github.com/codeestX/GeekNews) ⭐ 3,486 | 🐛 51 | 🌐 Java | 📅 2018-08-25
 提供了Dagger2配合MVP的架构思路
 
-[Toutiao](https://github.com/iMeiji/Toutiao) ⭐ 2,241 | 🐛 16 | 🌐 Java | 📅 2019-01-19
+[Toutiao](https://github.com/iMeiji/Toutiao) ⭐ 2,240 | 🐛 16 | 🌐 Java | 📅 2019-01-19
 提供的MD特效实现思路
 
 [diycode](https://github.com/GcsSloop/diycode) ⭐ 904 | 🐛 12 | 🌐 Java | 📅 2018-03-26
@@ -267,27 +267,27 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,192 | 🐛 11 | 🌐 Java | 📅 2026-09-21
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,191 | 🐛 11 | 🌐 Java | 📅 2026-09-21
 
-[RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,920 | 🐛 1 | 🌐 Java | 📅 2026-08-27
+[RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,918 | 🐛 1 | 🌐 Java | 📅 2026-08-27
 
 [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,940 | 🐛 173 | 🌐 Java | 📅 2026-09-09
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,941 | 🐛 173 | 🌐 Java | 📅 2026-09-09
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,063 | 🐛 155 | 🌐 Kotlin | 📅 2026-09-17
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,061 | 🐛 154 | 🌐 Kotlin | 📅 2026-09-21
 
-[Gson](https://github.com/google/gson) ⭐ 24,236 | 🐛 323 | 🌐 Java | 📅 2026-09-16
+[Gson](https://github.com/google/gson) ⭐ 24,235 | 🐛 325 | 🌐 Java | 📅 2026-09-16
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,025 | 🐛 666 | 🌐 Java | 📅 2026-09-18
+[Glide](https://github.com/bumptech/glide) ⭐ 35,023 | 🐛 672 | 🌐 Java | 📅 2026-09-22
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,700 | 🐛 369 | 🌐 Java | 📅 2026-09-18
+[Dagger2](https://github.com/google/dagger) ⭐ 17,700 | 🐛 369 | 🌐 Java | 📅 2026-09-21
 
 [ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,337 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
@@ -299,7 +299,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,115 | 🐛 341 | 🌐 Java | 📅 2024-12-04
 
-[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,723 | 🐛 74 | 🌐 Java | 📅 2026-02-15
+[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,725 | 🐛 74 | 🌐 Java | 📅 2026-02-15
 
 ### 还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长\~
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
