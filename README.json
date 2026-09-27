@@ -342,11 +342,11 @@
                     "id": 892275,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-26T04:58:50Z",
+                    "last_commit": "2026-09-26T14:48:59Z",
                     "open_issues": 174,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43944,
+                    "stars": 43945,
                     "topics": [
                       "android",
                       "java"
@@ -370,7 +370,7 @@
                     "open_issues": 156,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47076,
+                    "stars": 47078,
                     "topics": [
                       "android",
                       "graalvm",
@@ -393,10 +393,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-16T20:06:30Z",
-                    "open_issues": 327,
+                    "open_issues": 328,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24235,
+                    "stars": 24234,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -421,10 +421,10 @@
                     "language": "Java",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-26T00:23:18Z",
-                    "open_issues": 672,
+                    "open_issues": 671,
                     "owner": "bumptech",
                     "repo": "glide",
-                    "stars": 35021,
+                    "stars": 35023,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -473,7 +473,7 @@
                     "open_issues": 118,
                     "owner": "JakeWharton",
                     "repo": "butterknife",
-                    "stars": 25336,
+                    "stars": 25335,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -529,7 +529,7 @@
                     "open_issues": 341,
                     "owner": "scwang90",
                     "repo": "SmartRefreshLayout",
-                    "stars": 25116,
+                    "stars": 25115,
                     "topics": [
                       "android",
                       "android-ui",
@@ -559,7 +559,7 @@
                     "open_issues": 74,
                     "owner": "airbnb",
                     "repo": "lottie-android",
-                    "stars": 35732,
+                    "stars": 35734,
                     "topics": [
                       "after-effects",
                       "airbnb",
@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T12:25:05.030Z",
+    "last_updated": "2026-09-27T13:16:23.909Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
