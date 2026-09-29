@@ -267,7 +267,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,190 | 🐛 13 | 🌐 Java | 📅 2026-09-28
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,191 | 🐛 13 | 🌐 Java | 📅 2026-09-28
 
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,917 | 🐛 1 | 🌐 Java | 📅 2026-08-27
 
@@ -275,19 +275,19 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,944 | 🐛 174 | 🌐 Java | 📅 2026-09-26
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,944 | 🐛 153 | 🌐 Java | 📅 2026-09-29
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,077 | 🐛 156 | 🌐 Kotlin | 📅 2026-09-25
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,078 | 🐛 156 | 🌐 Kotlin | 📅 2026-09-25
 
-[Gson](https://github.com/google/gson) ⭐ 24,235 | 🐛 328 | 🌐 Java | 📅 2026-09-16
+[Gson](https://github.com/google/gson) ⭐ 24,237 | 🐛 328 | 🌐 Java | 📅 2026-09-16
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,023 | 🐛 672 | 🌐 Java | 📅 2026-09-28
+[Glide](https://github.com/bumptech/glide) ⭐ 35,022 | 🐛 672 | 🌐 Java | 📅 2026-09-28
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,701 | 🐛 370 | 🌐 Java | 📅 2026-09-26
+[Dagger2](https://github.com/google/dagger) ⭐ 17,701 | 🐛 370 | 🌐 Java | 📅 2026-09-28
 
 [ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,335 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
@@ -297,9 +297,9 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### UI
 
-[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,115 | 🐛 341 | 🌐 Java | 📅 2024-12-04
+[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,114 | 🐛 341 | 🌐 Java | 📅 2024-12-04
 
-[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,732 | 🐛 74 | 🌐 Java | 📅 2026-02-15
+[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,733 | 🐛 74 | 🌐 Java | 📅 2026-02-15
 
 ### 还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长\~
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
