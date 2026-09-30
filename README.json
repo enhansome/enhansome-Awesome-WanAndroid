@@ -267,11 +267,11 @@
                     "id": 7508411,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-28T08:22:58Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-09-29T17:03:45Z",
+                    "open_issues": 11,
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48191,
+                    "stars": 48188,
                     "topics": [
                       "flow",
                       "java",
@@ -342,11 +342,11 @@
                     "id": 892275,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-29T14:18:03Z",
-                    "open_issues": 153,
+                    "last_commit": "2026-09-29T19:43:35Z",
+                    "open_issues": 152,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43944,
+                    "stars": 43939,
                     "topics": [
                       "android",
                       "java"
@@ -370,7 +370,7 @@
                     "open_issues": 156,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47078,
+                    "stars": 47080,
                     "topics": [
                       "android",
                       "graalvm",
@@ -393,10 +393,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-16T20:06:30Z",
-                    "open_issues": 328,
+                    "open_issues": 329,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24237,
+                    "stars": 24236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -448,8 +448,8 @@
                     "id": 7968417,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-28T21:04:02Z",
-                    "open_issues": 370,
+                    "last_commit": "2026-09-30T09:49:29Z",
+                    "open_issues": 372,
                     "owner": "google",
                     "repo": "dagger",
                     "stars": 17701,
@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T14:19:05.964Z",
+    "last_updated": "2026-09-30T14:12:54.563Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",

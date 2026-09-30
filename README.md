@@ -27,7 +27,7 @@
 Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagger2 + GreenDao + Glide
 
 这是一款会让您觉得很nice的技术学习APP，所用技术基本涵盖了当前Android开发中常用的主流技术框架，阅读内容主要面向想在Android开发领域成为专家的朋友们。此外，我正在进行一个
-[全新的Android进阶计划](https://github.com/JsonChao/Awesome-Android-Exercise) ⭐ 3,404 | 🐛 4 | 📅 2026-04-20, 致力于成为更好的Android开发，有兴趣的朋友可以参考下\~
+[全新的Android进阶计划](https://github.com/JsonChao/Awesome-Android-Exercise) ⭐ 3,405 | 🐛 4 | 📅 2026-04-20, 致力于成为更好的Android开发，有兴趣的朋友可以参考下\~
 
 ## Awesome-WanAndroid Architecture
 
@@ -267,7 +267,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,191 | 🐛 13 | 🌐 Java | 📅 2026-09-28
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,188 | 🐛 11 | 🌐 Java | 📅 2026-09-29
 
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,917 | 🐛 1 | 🌐 Java | 📅 2026-08-27
 
@@ -275,11 +275,11 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,944 | 🐛 153 | 🌐 Java | 📅 2026-09-29
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,939 | 🐛 152 | 🌐 Java | 📅 2026-09-29
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,078 | 🐛 156 | 🌐 Kotlin | 📅 2026-09-25
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,080 | 🐛 156 | 🌐 Kotlin | 📅 2026-09-25
 
-[Gson](https://github.com/google/gson) ⭐ 24,237 | 🐛 328 | 🌐 Java | 📅 2026-09-16
+[Gson](https://github.com/google/gson) ⭐ 24,236 | 🐛 329 | 🌐 Java | 📅 2026-09-16
 
 #### Image Loader
 
@@ -287,7 +287,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,701 | 🐛 370 | 🌐 Java | 📅 2026-09-28
+[Dagger2](https://github.com/google/dagger) ⭐ 17,701 | 🐛 372 | 🌐 Java | 📅 2026-09-30
 
 [ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,335 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
