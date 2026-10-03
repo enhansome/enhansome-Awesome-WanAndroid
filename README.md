@@ -267,7 +267,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,185 | 🐛 11 | 🌐 Java | 📅 2026-10-01
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,184 | 🐛 11 | 🌐 Java | 📅 2026-10-03
 
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,909 | 🐛 1 | 🌐 Java | 📅 2026-10-01
 
@@ -277,7 +277,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 [Retrofit](https://github.com/square/retrofit) ⭐ 43,937 | 🐛 152 | 🌐 Java | 📅 2026-10-02
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,081 | 🐛 152 | 🌐 Kotlin | 📅 2026-10-03
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,081 | 🐛 153 | 🌐 Kotlin | 📅 2026-10-03
 
 [Gson](https://github.com/google/gson) ⭐ 24,232 | 🐛 333 | 🌐 Java | 📅 2026-10-01
 
@@ -287,7 +287,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,701 | 🐛 372 | 🌐 Java | 📅 2026-10-02
+[Dagger2](https://github.com/google/dagger) ⭐ 17,702 | 🐛 370 | 🌐 Java | 📅 2026-10-03
 
 [ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,333 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
@@ -299,7 +299,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,110 | 🐛 341 | 🌐 Java | 📅 2024-12-04
 
-[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,734 | 🐛 74 | 🌐 Java | 📅 2026-02-15
+[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,735 | 🐛 75 | 🌐 Java | 📅 2026-02-15
 
 ### 还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长\~
 
