@@ -267,7 +267,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,184 | 🐛 11 | 🌐 Java | 📅 2026-10-03
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,186 | 🐛 11 | 🌐 Java | 📅 2026-10-03
 
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,909 | 🐛 1 | 🌐 Java | 📅 2026-10-01
 
@@ -275,15 +275,15 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,937 | 🐛 152 | 🌐 Java | 📅 2026-10-02
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,938 | 🐛 152 | 🌐 Java | 📅 2026-10-02
 
 [OkHttp](https://github.com/square/okhttp) ⭐ 47,081 | 🐛 153 | 🌐 Kotlin | 📅 2026-10-03
 
-[Gson](https://github.com/google/gson) ⭐ 24,232 | 🐛 333 | 🌐 Java | 📅 2026-10-01
+[Gson](https://github.com/google/gson) ⭐ 24,233 | 🐛 333 | 🌐 Java | 📅 2026-10-01
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,023 | 🐛 671 | 🌐 Java | 📅 2026-10-02
+[Glide](https://github.com/bumptech/glide) ⭐ 35,024 | 🐛 671 | 🌐 Java | 📅 2026-10-02
 
 #### DI
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

@@ -218,7 +218,7 @@
                     "open_issues": 11,
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48184,
+                    "stars": 48186,
                     "topics": [
                       "flow",
                       "java",
@@ -293,7 +293,7 @@
                     "open_issues": 152,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43937,
+                    "stars": 43938,
                     "topics": [
                       "android",
                       "java"
@@ -343,7 +343,7 @@
                     "open_issues": 333,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24232,
+                    "stars": 24233,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -371,7 +371,7 @@
                     "open_issues": 671,
                     "owner": "bumptech",
                     "repo": "glide",
-                    "stars": 35023,
+                    "stars": 35024,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:42:25.175Z",
+    "last_updated": "2026-10-04T13:27:59.988Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
