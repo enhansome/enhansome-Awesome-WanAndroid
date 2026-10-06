@@ -283,7 +283,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,021 | 🐛 671 | 🌐 Java | 📅 2026-10-06
+[Glide](https://github.com/bumptech/glide) ⭐ 35,020 | 🐛 671 | 🌐 Java | 📅 2026-10-06
 
 #### DI
 
