@@ -267,7 +267,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,185 | 🐛 11 | 🌐 Java | 📅 2026-10-05
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,186 | 🐛 11 | 🌐 Java | 📅 2026-10-05
 
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,908 | 🐛 1 | 🌐 Java | 📅 2026-10-01
 
@@ -275,15 +275,15 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,934 | 🐛 152 | 🌐 Java | 📅 2026-10-05
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,934 | 🐛 152 | 🌐 Java | 📅 2026-10-07
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,086 | 🐛 155 | 🌐 Kotlin | 📅 2026-10-06
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,089 | 🐛 156 | 🌐 Kotlin | 📅 2026-10-07
 
-[Gson](https://github.com/google/gson) ⭐ 24,235 | 🐛 334 | 🌐 Java | 📅 2026-10-05
+[Gson](https://github.com/google/gson) ⭐ 24,236 | 🐛 334 | 🌐 Java | 📅 2026-10-05
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,020 | 🐛 671 | 🌐 Java | 📅 2026-10-06
+[Glide](https://github.com/bumptech/glide) ⭐ 35,017 | 🐛 672 | 🌐 Java | 📅 2026-10-07
 
 #### DI
 
@@ -293,13 +293,13 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### DB
 
-[GreenDao](https://github.com/greenrobot/greenDAO) ⭐ 12,587 | 🐛 237 | 🌐 Java | 📅 2024-04-30
+[GreenDao](https://github.com/greenrobot/greenDAO) ⭐ 12,586 | 🐛 237 | 🌐 Java | 📅 2024-04-30
 
 #### UI
 
 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,111 | 🐛 341 | 🌐 Java | 📅 2024-12-04
 
-[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,737 | 🐛 78 | 🌐 Java | 📅 2026-02-15
+[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,739 | 🐛 78 | 🌐 Java | 📅 2026-02-15
 
 ### 还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长\~
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
