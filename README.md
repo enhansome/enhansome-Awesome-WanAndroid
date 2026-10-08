@@ -267,29 +267,29 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,186 | 🐛 11 | 🌐 Java | 📅 2026-10-05
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,190 | 🐛 11 | 🌐 Java | 📅 2026-10-05
 
-[RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,908 | 🐛 1 | 🌐 Java | 📅 2026-10-01
+[RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,907 | 🐛 1 | 🌐 Java | 📅 2026-10-01
 
 [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,934 | 🐛 152 | 🌐 Java | 📅 2026-10-07
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,936 | 🐛 152 | 🌐 Java | 📅 2026-10-08
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,089 | 🐛 156 | 🌐 Kotlin | 📅 2026-10-07
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,091 | 🐛 157 | 🌐 Kotlin | 📅 2026-10-08
 
-[Gson](https://github.com/google/gson) ⭐ 24,236 | 🐛 334 | 🌐 Java | 📅 2026-10-05
+[Gson](https://github.com/google/gson) ⭐ 24,236 | 🐛 335 | 🌐 Java | 📅 2026-10-05
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,017 | 🐛 672 | 🌐 Java | 📅 2026-10-07
+[Glide](https://github.com/bumptech/glide) ⭐ 35,016 | 🐛 673 | 🌐 Java | 📅 2026-10-07
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,700 | 🐛 368 | 🌐 Java | 📅 2026-10-06
+[Dagger2](https://github.com/google/dagger) ⭐ 17,699 | 🐛 368 | 🌐 Java | 📅 2026-10-08
 
-[ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,331 | 🐛 118 | 🌐 Java | 📅 2023-09-02
+[ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,330 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
 #### DB
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
