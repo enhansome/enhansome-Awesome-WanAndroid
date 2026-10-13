@@ -214,7 +214,7 @@
                     "id": 7508411,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T16:58:07Z",
+                    "last_commit": "2026-10-13T09:06:06Z",
                     "open_issues": 11,
                     "owner": "ReactiveX",
                     "repo": "RxJava",
@@ -289,11 +289,11 @@
                     "id": 892275,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-09T12:24:42Z",
+                    "last_commit": "2026-10-13T14:04:47Z",
                     "open_issues": 153,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43999,
+                    "stars": 44001,
                     "topics": [
                       "android",
                       "java"
@@ -313,11 +313,11 @@
                     "id": 5152285,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-08T13:15:25Z",
-                    "open_issues": 157,
+                    "last_commit": "2026-10-13T14:08:23Z",
+                    "open_issues": 158,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47084,
+                    "stars": 47085,
                     "topics": [
                       "android",
                       "graalvm",
@@ -343,7 +343,7 @@
                     "open_issues": 333,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24239,
+                    "stars": 24241,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -367,11 +367,11 @@
                     "id": 11267509,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-10T00:29:22Z",
+                    "last_commit": "2026-10-13T13:03:34Z",
                     "open_issues": 670,
                     "owner": "bumptech",
                     "repo": "glide",
-                    "stars": 35013,
+                    "stars": 35012,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -395,11 +395,11 @@
                     "id": 7968417,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T16:37:47Z",
-                    "open_issues": 369,
+                    "last_commit": "2026-10-13T03:31:52Z",
+                    "open_issues": 367,
                     "owner": "google",
                     "repo": "dagger",
-                    "stars": 17696,
+                    "stars": 17695,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -420,7 +420,7 @@
                     "open_issues": 118,
                     "owner": "JakeWharton",
                     "repo": "butterknife",
-                    "stars": 25328,
+                    "stars": 25327,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -503,10 +503,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-02-15T22:03:57Z",
-                    "open_issues": 79,
+                    "open_issues": 80,
                     "owner": "airbnb",
                     "repo": "lottie-android",
-                    "stars": 35745,
+                    "stars": 35748,
                     "topics": [
                       "after-effects",
                       "airbnb",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T16:58:15.631Z",
+    "last_updated": "2026-10-13T15:14:54.826Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
