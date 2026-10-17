@@ -95,7 +95,7 @@
                 "open_issues": 51,
                 "owner": "codeestX",
                 "repo": "GeekNews",
-                "stars": 3484,
+                "stars": 3485,
                 "topics": [
                   "android-application",
                   "app",
@@ -134,7 +134,7 @@
                 "open_issues": 16,
                 "owner": "iMeiji",
                 "repo": "Toutiao",
-                "stars": 2241,
+                "stars": 2242,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:53.622Z"
@@ -218,7 +218,7 @@
                     "open_issues": 11,
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48183,
+                    "stars": 48181,
                     "topics": [
                       "flow",
                       "java",
@@ -265,7 +265,7 @@
                     "open_issues": 42,
                     "owner": "JakeWharton",
                     "repo": "RxBinding",
-                    "stars": 9566,
+                    "stars": 9565,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -289,11 +289,11 @@
                     "id": 892275,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-16T12:26:23Z",
+                    "last_commit": "2026-10-17T00:26:11Z",
                     "open_issues": 153,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43939,
+                    "stars": 43940,
                     "topics": [
                       "android",
                       "java"
@@ -313,11 +313,11 @@
                     "id": 5152285,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T12:51:58Z",
-                    "open_issues": 161,
+                    "last_commit": "2026-10-17T11:35:06Z",
+                    "open_issues": 155,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47089,
+                    "stars": 47090,
                     "topics": [
                       "android",
                       "graalvm",
@@ -340,10 +340,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-11T21:06:39Z",
-                    "open_issues": 333,
+                    "open_issues": 334,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24240,
+                    "stars": 24239,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -371,7 +371,7 @@
                     "open_issues": 666,
                     "owner": "bumptech",
                     "repo": "glide",
-                    "stars": 35011,
+                    "stars": 35012,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -399,7 +399,7 @@
                     "open_issues": 367,
                     "owner": "google",
                     "repo": "dagger",
-                    "stars": 17694,
+                    "stars": 17693,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -420,7 +420,7 @@
                     "open_issues": 118,
                     "owner": "JakeWharton",
                     "repo": "butterknife",
-                    "stars": 25324,
+                    "stars": 25323,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -506,7 +506,7 @@
                     "open_issues": 80,
                     "owner": "airbnb",
                     "repo": "lottie-android",
-                    "stars": 35750,
+                    "stars": 35749,
                     "topics": [
                       "after-effects",
                       "airbnb",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T12:42:31.774Z",
+    "last_updated": "2026-10-17T11:44:10.536Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
