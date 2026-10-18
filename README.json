@@ -155,7 +155,7 @@
                 "open_issues": 12,
                 "owner": "GcsSloop",
                 "repo": "diycode",
-                "stars": 904,
+                "stars": 905,
                 "topics": [
                   "android",
                   "android-app",
@@ -218,7 +218,7 @@
                     "open_issues": 11,
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48181,
+                    "stars": 48180,
                     "topics": [
                       "flow",
                       "java",
@@ -244,7 +244,7 @@
                     "open_issues": 1,
                     "owner": "ReactiveX",
                     "repo": "RxAndroid",
-                    "stars": 19903,
+                    "stars": 19901,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -293,7 +293,7 @@
                     "open_issues": 153,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43940,
+                    "stars": 43937,
                     "topics": [
                       "android",
                       "java"
@@ -313,11 +313,11 @@
                     "id": 5152285,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-17T11:35:06Z",
-                    "open_issues": 155,
+                    "last_commit": "2026-10-17T17:50:01Z",
+                    "open_issues": 150,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47090,
+                    "stars": 47091,
                     "topics": [
                       "android",
                       "graalvm",
@@ -340,10 +340,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-11T21:06:39Z",
-                    "open_issues": 334,
+                    "open_issues": 335,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24239,
+                    "stars": 24237,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -368,10 +368,10 @@
                     "language": "Java",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-15T08:50:10Z",
-                    "open_issues": 666,
+                    "open_issues": 668,
                     "owner": "bumptech",
                     "repo": "glide",
-                    "stars": 35012,
+                    "stars": 35009,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -399,7 +399,7 @@
                     "open_issues": 367,
                     "owner": "google",
                     "repo": "dagger",
-                    "stars": 17693,
+                    "stars": 17690,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -420,7 +420,7 @@
                     "open_issues": 118,
                     "owner": "JakeWharton",
                     "repo": "butterknife",
-                    "stars": 25323,
+                    "stars": 25321,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -448,7 +448,7 @@
                     "open_issues": 237,
                     "owner": "greenrobot",
                     "repo": "greenDAO",
-                    "stars": 12582,
+                    "stars": 12583,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -476,7 +476,7 @@
                     "open_issues": 341,
                     "owner": "scwang90",
                     "repo": "SmartRefreshLayout",
-                    "stars": 25103,
+                    "stars": 25102,
                     "topics": [
                       "android",
                       "android-ui",
@@ -503,10 +503,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-02-15T22:03:57Z",
-                    "open_issues": 80,
+                    "open_issues": 81,
                     "owner": "airbnb",
                     "repo": "lottie-android",
-                    "stars": 35749,
+                    "stars": 35751,
                     "topics": [
                       "after-effects",
                       "airbnb",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:44:10.536Z",
+    "last_updated": "2026-10-18T12:10:23.654Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
