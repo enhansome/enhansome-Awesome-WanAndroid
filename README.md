@@ -267,27 +267,27 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,177 | 🐛 11 | 🌐 Java | 📅 2026-10-19
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,162 | 🐛 11 | 🌐 Java | 📅 2026-10-19
 
-[RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,900 | 🐛 1 | 🌐 Java | 📅 2026-10-01
+[RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,898 | 🐛 1 | 🌐 Java | 📅 2026-10-01
 
 [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,934 | 🐛 148 | 🌐 Java | 📅 2026-10-20
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,935 | 🐛 149 | 🌐 Java | 📅 2026-10-22
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,091 | 🐛 150 | 🌐 Kotlin | 📅 2026-10-21
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,083 | 🐛 150 | 🌐 Kotlin | 📅 2026-10-22
 
-[Gson](https://github.com/google/gson) ⭐ 24,237 | 🐛 340 | 🌐 Java | 📅 2026-10-11
+[Gson](https://github.com/google/gson) ⭐ 24,238 | 🐛 340 | 🌐 Java | 📅 2026-10-11
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,006 | 🐛 670 | 🌐 Java | 📅 2026-10-21
+[Glide](https://github.com/bumptech/glide) ⭐ 35,005 | 🐛 670 | 🌐 Java | 📅 2026-10-21
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,691 | 🐛 367 | 🌐 Java | 📅 2026-10-20
+[Dagger2](https://github.com/google/dagger) ⭐ 17,691 | 🐛 366 | 🌐 Java | 📅 2026-10-22
 
 [ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,320 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
@@ -297,9 +297,9 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### UI
 
-[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,102 | 🐛 341 | 🌐 Java | 📅 2024-12-04
+[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,099 | 🐛 341 | 🌐 Java | 📅 2024-12-04
 
-[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,752 | 🐛 81 | 🌐 Java | 📅 2026-02-15
+[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,754 | 🐛 81 | 🌐 Java | 📅 2026-02-15
 
 ### 还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长\~
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
