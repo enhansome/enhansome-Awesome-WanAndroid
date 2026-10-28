@@ -134,7 +134,7 @@
                 "open_issues": 16,
                 "owner": "iMeiji",
                 "repo": "Toutiao",
-                "stars": 2242,
+                "stars": 2241,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:53.622Z"
@@ -218,7 +218,7 @@
                     "open_issues": 12,
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48159,
+                    "stars": 48157,
                     "topics": [
                       "flow",
                       "java",
@@ -244,7 +244,7 @@
                     "open_issues": 1,
                     "owner": "ReactiveX",
                     "repo": "RxAndroid",
-                    "stars": 19900,
+                    "stars": 19899,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -293,7 +293,7 @@
                     "open_issues": 148,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43942,
+                    "stars": 43941,
                     "topics": [
                       "android",
                       "java"
@@ -313,11 +313,11 @@
                     "id": 5152285,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-27T01:52:17Z",
-                    "open_issues": 149,
+                    "last_commit": "2026-10-28T01:34:54Z",
+                    "open_issues": 151,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47099,
+                    "stars": 47100,
                     "topics": [
                       "android",
                       "graalvm",
@@ -367,11 +367,11 @@
                     "id": 11267509,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-26T19:13:27Z",
-                    "open_issues": 670,
+                    "last_commit": "2026-10-28T05:08:15Z",
+                    "open_issues": 674,
                     "owner": "bumptech",
                     "repo": "glide",
-                    "stars": 35010,
+                    "stars": 35008,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -395,8 +395,8 @@
                     "id": 7968417,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T20:57:06Z",
-                    "open_issues": 365,
+                    "last_commit": "2026-10-27T18:46:05Z",
+                    "open_issues": 364,
                     "owner": "google",
                     "repo": "dagger",
                     "stars": 17690,
@@ -420,7 +420,7 @@
                     "open_issues": 118,
                     "owner": "JakeWharton",
                     "repo": "butterknife",
-                    "stars": 25320,
+                    "stars": 25318,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T13:32:08.814Z",
+    "last_updated": "2026-10-28T14:27:10.607Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
