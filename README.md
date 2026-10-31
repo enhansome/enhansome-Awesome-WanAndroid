@@ -275,29 +275,29 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,938 | 🐛 148 | 🌐 Java | 📅 2026-10-29
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,940 | 🐛 148 | 🌐 Java | 📅 2026-10-31
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,102 | 🐛 162 | 🌐 Kotlin | 📅 2026-10-29
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,103 | 🐛 163 | 🌐 Kotlin | 📅 2026-10-30
 
-[Gson](https://github.com/google/gson) ⭐ 24,234 | 🐛 339 | 🌐 Java | 📅 2026-10-24
+[Gson](https://github.com/google/gson) ⭐ 24,238 | 🐛 339 | 🌐 Java | 📅 2026-10-24
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,010 | 🐛 675 | 🌐 Java | 📅 2026-10-29
+[Glide](https://github.com/bumptech/glide) ⭐ 35,009 | 🐛 676 | 🌐 Java | 📅 2026-10-31
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,690 | 🐛 364 | 🌐 Java | 📅 2026-10-29
+[Dagger2](https://github.com/google/dagger) ⭐ 17,691 | 🐛 365 | 🌐 Java | 📅 2026-10-30
 
 [ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,318 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
 #### DB
 
-[GreenDao](https://github.com/greenrobot/greenDAO) ⭐ 12,581 | 🐛 237 | 🌐 Java | 📅 2024-04-30
+[GreenDao](https://github.com/greenrobot/greenDAO) ⭐ 12,582 | 🐛 237 | 🌐 Java | 📅 2024-04-30
 
 #### UI
 
-[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,098 | 🐛 342 | 🌐 Java | 📅 2024-12-04
+[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,096 | 🐛 342 | 🌐 Java | 📅 2024-12-04
 
 [Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,759 | 🐛 83 | 🌐 Java | 📅 2026-02-15
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
