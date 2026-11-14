@@ -275,19 +275,19 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,938 | 🐛 148 | 🌐 Java | 📅 2026-11-13
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,938 | 🐛 148 | 🌐 Java | 📅 2026-11-14
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,113 | 🐛 169 | 🌐 Kotlin | 📅 2026-11-13
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,112 | 🐛 169 | 🌐 Kotlin | 📅 2026-11-14
 
-[Gson](https://github.com/google/gson) ⭐ 24,230 | 🐛 341 | 🌐 Java | 📅 2026-11-10
+[Gson](https://github.com/google/gson) ⭐ 24,231 | 🐛 339 | 🌐 Java | 📅 2026-11-13
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,013 | 🐛 686 | 🌐 Java | 📅 2026-11-13
+[Glide](https://github.com/bumptech/glide) ⭐ 35,011 | 🐛 688 | 🌐 Java | 📅 2026-11-14
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,689 | 🐛 368 | 🌐 Java | 📅 2026-11-12
+[Dagger2](https://github.com/google/dagger) ⭐ 17,690 | 🐛 368 | 🌐 Java | 📅 2026-11-13
 
 [ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,312 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

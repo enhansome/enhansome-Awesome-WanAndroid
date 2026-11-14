@@ -289,7 +289,7 @@
                     "id": 892275,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T13:43:45Z",
+                    "last_commit": "2026-11-14T05:27:13Z",
                     "open_issues": 148,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
@@ -313,11 +313,11 @@
                     "id": 5152285,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T14:06:26Z",
+                    "last_commit": "2026-11-14T04:34:16Z",
                     "open_issues": 169,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47113,
+                    "stars": 47112,
                     "topics": [
                       "android",
                       "graalvm",
@@ -339,11 +339,11 @@
                     "id": 32538871,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T01:51:33Z",
-                    "open_issues": 341,
+                    "last_commit": "2026-11-13T22:49:17Z",
+                    "open_issues": 339,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24230,
+                    "stars": 24231,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -367,11 +367,11 @@
                     "id": 11267509,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-13T04:45:55Z",
-                    "open_issues": 686,
+                    "last_commit": "2026-11-14T01:37:25Z",
+                    "open_issues": 688,
                     "owner": "bumptech",
                     "repo": "glide",
-                    "stars": 35013,
+                    "stars": 35011,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -395,11 +395,11 @@
                     "id": 7968417,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T23:53:21Z",
+                    "last_commit": "2026-11-13T20:01:42Z",
                     "open_issues": 368,
                     "owner": "google",
                     "repo": "dagger",
-                    "stars": 17689,
+                    "stars": 17690,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T15:40:09.475Z",
+    "last_updated": "2026-11-14T14:27:42.499Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
