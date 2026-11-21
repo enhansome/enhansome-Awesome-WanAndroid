@@ -275,19 +275,19 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Network
 
-[Retrofit](https://github.com/square/retrofit) ⭐ 43,939 | 🐛 148 | 🌐 Java | 📅 2026-11-20
+[Retrofit](https://github.com/square/retrofit) ⭐ 43,941 | 🐛 148 | 🌐 Java | 📅 2026-11-21
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,115 | 🐛 129 | 🌐 Kotlin | 📅 2026-11-20
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,116 | 🐛 128 | 🌐 Kotlin | 📅 2026-11-21
 
 [Gson](https://github.com/google/gson) ⭐ 24,236 | 🐛 332 | 🌐 Java | 📅 2026-11-19
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,006 | 🐛 695 | 🌐 Java | 📅 2026-11-20
+[Glide](https://github.com/bumptech/glide) ⭐ 35,008 | 🐛 698 | 🌐 Java | 📅 2026-11-21
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,686 | 🐛 371 | 🌐 Java | 📅 2026-11-20
+[Dagger2](https://github.com/google/dagger) ⭐ 17,685 | 🐛 369 | 🌐 Java | 📅 2026-11-20
 
 [ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,307 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
@@ -297,9 +297,9 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### UI
 
-[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,082 | 🐛 342 | 🌐 Java | 📅 2024-12-04
+[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) ⭐ 25,080 | 🐛 342 | 🌐 Java | 📅 2024-12-04
 
-[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,774 | 🐛 85 | 🌐 Java | 📅 2026-02-15
+[Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,776 | 🐛 85 | 🌐 Java | 📅 2026-02-15
 
 ### 还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长\~
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
