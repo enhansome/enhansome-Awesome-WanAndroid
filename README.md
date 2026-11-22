@@ -27,7 +27,7 @@
 Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagger2 + GreenDao + Glide
 
 这是一款会让您觉得很nice的技术学习APP，所用技术基本涵盖了当前Android开发中常用的主流技术框架，阅读内容主要面向想在Android开发领域成为专家的朋友们。此外，我正在进行一个
-[全新的Android进阶计划](https://github.com/JsonChao/Awesome-Android-Exercise) ⭐ 3,406 | 🐛 5 | 📅 2026-04-20, 致力于成为更好的Android开发，有兴趣的朋友可以参考下\~
+[全新的Android进阶计划](https://github.com/JsonChao/Awesome-Android-Exercise) ⭐ 3,407 | 🐛 5 | 📅 2026-04-20, 致力于成为更好的Android开发，有兴趣的朋友可以参考下\~
 
 ## Awesome-WanAndroid Architecture
 
@@ -267,7 +267,7 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 #### Rx
 
-[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,146 | 🐛 11 | 🌐 Java | 📅 2026-11-20
+[Rxjava](https://github.com/ReactiveX/RxJava) ⭐ 48,147 | 🐛 11 | 🌐 Java | 📅 2026-11-20
 
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,890 | 🐛 1 | 🌐 Java | 📅 2026-11-02
 
@@ -277,19 +277,19 @@ Awesome WanAndroid项目基于Material Design + MVP + Rxjava2 + Retrofit + Dagge
 
 [Retrofit](https://github.com/square/retrofit) ⭐ 43,941 | 🐛 148 | 🌐 Java | 📅 2026-11-21
 
-[OkHttp](https://github.com/square/okhttp) ⭐ 47,116 | 🐛 128 | 🌐 Kotlin | 📅 2026-11-21
+[OkHttp](https://github.com/square/okhttp) ⭐ 47,117 | 🐛 124 | 🌐 Kotlin | 📅 2026-11-22
 
-[Gson](https://github.com/google/gson) ⭐ 24,236 | 🐛 332 | 🌐 Java | 📅 2026-11-19
+[Gson](https://github.com/google/gson) ⭐ 24,236 | 🐛 331 | 🌐 Java | 📅 2026-11-22
 
 #### Image Loader
 
-[Glide](https://github.com/bumptech/glide) ⭐ 35,008 | 🐛 698 | 🌐 Java | 📅 2026-11-21
+[Glide](https://github.com/bumptech/glide) ⭐ 35,005 | 🐛 705 | 🌐 Java | 📅 2026-11-22
 
 #### DI
 
-[Dagger2](https://github.com/google/dagger) ⭐ 17,685 | 🐛 369 | 🌐 Java | 📅 2026-11-20
+[Dagger2](https://github.com/google/dagger) ⭐ 17,684 | 🐛 369 | 🌐 Java | 📅 2026-11-20
 
-[ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,307 | 🐛 118 | 🌐 Java | 📅 2023-09-02
+[ButterKnife](https://github.com/JakeWharton/butterknife) ⭐ 25,306 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
 #### DB
 
@@ -447,4 +447,4 @@ limitations under the License.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
