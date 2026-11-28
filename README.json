@@ -184,7 +184,7 @@
                 "open_issues": 13,
                 "owner": "LRH1993",
                 "repo": "Eyepetizer-in-Kotlin",
-                "stars": 1644,
+                "stars": 1643,
                 "topics": [
                   "eyepetizer",
                   "ijkplayer",
@@ -218,7 +218,7 @@
                     "open_issues": 11,
                     "owner": "ReactiveX",
                     "repo": "RxJava",
-                    "stars": 48146,
+                    "stars": 48144,
                     "topics": [
                       "flow",
                       "java",
@@ -289,11 +289,11 @@
                     "id": 892275,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-27T04:48:23Z",
-                    "open_issues": 148,
+                    "last_commit": "2026-11-28T05:39:43Z",
+                    "open_issues": 149,
                     "owner": "lysine-dev",
                     "repo": "retrofit",
-                    "stars": 43947,
+                    "stars": 43946,
                     "topics": [
                       "android",
                       "java"
@@ -313,11 +313,11 @@
                     "id": 5152285,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-27T04:46:50Z",
-                    "open_issues": 130,
+                    "last_commit": "2026-11-28T15:28:56Z",
+                    "open_issues": 128,
                     "owner": "lysine-dev",
                     "repo": "okhttp",
-                    "stars": 47122,
+                    "stars": 47121,
                     "topics": [
                       "android",
                       "graalvm",
@@ -339,11 +339,11 @@
                     "id": 32538871,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-22T01:14:15Z",
-                    "open_issues": 338,
+                    "last_commit": "2026-11-28T16:16:08Z",
+                    "open_issues": 328,
                     "owner": "google",
                     "repo": "gson",
-                    "stars": 24236,
+                    "stars": 24240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -371,7 +371,7 @@
                     "open_issues": 698,
                     "owner": "bumptech",
                     "repo": "glide",
-                    "stars": 35002,
+                    "stars": 35001,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -395,11 +395,11 @@
                     "id": 7968417,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-26T22:07:56Z",
-                    "open_issues": 369,
+                    "last_commit": "2026-11-27T19:23:31Z",
+                    "open_issues": 370,
                     "owner": "google",
                     "repo": "dagger",
-                    "stars": 17686,
+                    "stars": 17687,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:34:53.622Z"
@@ -506,7 +506,7 @@
                     "open_issues": 85,
                     "owner": "airbnb",
                     "repo": "lottie-android",
-                    "stars": 35782,
+                    "stars": 35784,
                     "topics": [
                       "after-effects",
                       "airbnb",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T17:38:14.953Z",
+    "last_updated": "2026-11-28T16:22:14.352Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n",
